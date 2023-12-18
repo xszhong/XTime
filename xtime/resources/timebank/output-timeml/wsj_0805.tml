@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0805</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-27">1989-10-27</TIMEX3></DCT>
+<TEXT>
+CMS ENERGY Corp. said management would recommend to its board <TIMEX3 tid="t1" type="DATE" value="1989-10-27">today</TIMEX3> that its common stock dividend be reinstated at a "modest level" later <TIMEX3 tid="t2" type="DATE" value="1989">this year</TIMEX3>. The Dearborn, Mich., energy company stopped paying a dividend in <TIMEX3 tid="t3" type="DATE" value="1984-Q3">the third quarter of 1984</TIMEX3> because of troubles at its Midland nuclear plant. In addition, CMS reported <TIMEX3 tid="t4" type="DATE" value="1984-Q3">third-quarter</TIMEX3> net of $68.2 million, or 83 cents a share, up from $66.8 million, or 81 cents a share, <TIMEX3 tid="t5" type="DATE" value="1983">a year ago</TIMEX3>.
+</TEXT>
+</TimeML>

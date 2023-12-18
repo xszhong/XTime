@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>ea980120.1830.0456</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1998-01-20">1998-01-20</TIMEX3></DCT>
+<TEXT>
+The Pentagon said <TIMEX3 tid="t1" type="DATE" value="1998-01-20">today</TIMEX3> it will re-examine the question are the remains inside the Tomb of the Unknown from the Vietnam War, in fact, known?
+
+CBS News first reported <TIMEX3 tid="t2" type="TIME" value="1998-01-19TNI">last night</TIMEX3> that the tomb may contain the remains of Air Force pilot Michael Blassie.
+
+There was a suspicion the body was Blassie because his uniform and ID card were found near the body in Vietnam. But subsequently, they were lost. Blassie's mother <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">now</TIMEX3> wants the remains in the tomb tested for DNA.
+</TEXT>
+</TimeML>

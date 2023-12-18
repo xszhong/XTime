@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>CNN19980222.1130.0084</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1998-02-22">1998-02-22</TIMEX3></DCT>
+<TEXT>
+CNN headline news, I'm Sachi Koto. Diplomacy appears to be making headway in resolving the united nation's standoff with Iraq. A UN spokesman says UN secretary general Kofi Annan is on the verge of a breakthrough, but added it's not done yet. Annan wrapped up <TIMEX3 tid="t1" type="DURATION" value="PT3H">a three hour</TIMEX3> meeting with Iraqi president Saddam Hussein in Baghdad <TIMEX3 tid="t2" type="DATE" value="1998-02-22">today</TIMEX3>. He's expected to meet with Iraqi deputy prime minister Tariq Aziz later <TIMEX3 tid="t3" type="TIME" value="1998-02-22TAF">this afternoon</TIMEX3>. One major sticking point has been Iraq's proposal to open it's presidential sites for no <TIMEX3 tid="t4" type="DURATION" value="P60D">more than sixty days</TIMEX3>. The UN security council insists any deal must allow UN inspectors unrestricted access to all suspected weapons sites.
+</TEXT>
+</TimeML>

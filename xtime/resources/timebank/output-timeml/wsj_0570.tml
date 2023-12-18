@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0570</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-30">1989-10-30</TIMEX3></DCT>
+<TEXT>
+Crane Co. said it holds an 8.9% stake in Milton Roy Corp., an analytical-instruments maker, and may seek control of the company.
+
+Crane, a maker of engineered products for aerospace, construction, defense and other uses, made the disclosure in a Securities and Exchange Commission filing.
+
+In the filing, Crane said that in <TIMEX3 tid="t1" type="DATE" value="PAST_REF">the past</TIMEX3> it considered seeking control of Milton Roy, of St. Petersburg, Fla., through a merger or tender offer and that it expects to continue to evaluate an acquisition from time to time. Crane officials didn't return phone calls seeking comment.
+
+Crane holds 504,200 Milton Roy shares, including 254,200 bought from <TIMEX3 tid="t2" type="DATE" value="1989-09-14">Sept. 14</TIMEX3> to <TIMEX3 tid="t3" type="DATE" value="1989-09-14-WXX-4">Thursday</TIMEX3> for $15.50 to $16.75 each. In New York Stock Exchange composite trading <TIMEX3 tid="t4" type="DATE" value="1989-09-15-WXX-5">Friday</TIMEX3>, Milton Roy shares leaped $2, to $18.375 each, while Crane sank $1.125, to $21.125 a share.
+
+John M. McNamara, chief financial officer of Milton Roy, said the company has no comment on Crane's filing.
+
+Milton Roy <TIMEX3 tid="t5" type="DATE" value="PAST_REF">recently</TIMEX3> fended off unsolicited overtures from Thermo Electron Corp., a Waltham, Mass., maker of biomedical products. Milton Roy disclosed in <TIMEX3 tid="t6" type="DATE" value="1989-05">May</TIMEX3> that it was approached for a possible acquisition by Thermo Electron, which agreed to purchase Milton Roy's liquid-chromatography line for $22 million in <TIMEX3 tid="t7" type="DATE" value="1989-02">February</TIMEX3>. Thermo Electron acquired some 6% of Milton Roy's common stock before throwing in the towel and reducing its stake in <TIMEX3 tid="t8" type="DATE" value="1989-09">early September</TIMEX3>.
+
+Gabelli Group began raising its Milton Roy stake in <TIMEX3 tid="t9" type="DATE" value="1989-07">July</TIMEX3>, and holds 14.6%, according to a recent SEC filing. It hasn't made merger overtures to the board.
+
+Earlier <TIMEX3 tid="t10" type="DATE" value="1989-07">this month</TIMEX3>, Milton Roy signed a letter of intent to acquire Automated Custom Systems Inc., Orange, Calif., and its sister operation, Environmental Testing Co., in Aurora, Colo.
+
+The companies are automotive-emissions-testing concerns.
+
+Under the terms, Milton Roy will pay an initial $4 million for the operations and additional payments during <TIMEX3 tid="t11" type="DURATION" value="P4Y">the next four years</TIMEX3> based on the earnings performance of the businesses.
+
+In <TIMEX3 tid="t12" type="DURATION" value="P9M">the nine months</TIMEX3>, Milton Roy earned $6.6 million, or $1.18 a share, on sales of $94.3 million.
+</TEXT>
+</TimeML>

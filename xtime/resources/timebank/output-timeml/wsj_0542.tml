@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0542</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-30">1989-10-30</TIMEX3></DCT>
+<TEXT>
+Dow Jones amp Co. extended its tender offer of $18 a share, or about $576 million, for the 33% of Telerate Inc. that it doesn't already own until <TIMEX3 tid="t1" type="TIME" value="1989-11-06T17:00">5 p.m. EST, Nov. 6</TIMEX3>.
+
+The offer, which Telerate's two independent directors have rejected as inadequate, <TIMEX3 tid="t2" type="DATE" value="PAST_REF">previously</TIMEX3> had been scheduled to expire at <TIMEX3 tid="t3" type="TIME" value="1989-11-10-WXX-5T00:00">midnight Friday</TIMEX3>. Dow Jones said it extended the offer to allow shareholders time to review a supplement to the Dow Jones tender offer circular that it mailed <TIMEX3 tid="t4" type="DATE" value="1989-11-03-WXX-5">last Friday</TIMEX3>.
+
+The supplement contains various information that has been filed with the Securities and Exchange Commission since Dow Jones launched the offer on <TIMEX3 tid="t5" type="DATE" value="1989-09-26">Sept. 26</TIMEX3>, but it doesn't change the terms and conditions of the offer except to extend its expiration date.
+
+In Delaware Chancery Court litigation, Telerate has criticized Dow Jones for not disclosing that Telerate's management expects the company's revenue to increase by 20% <TIMEX3 tid="t6" type="SET" value="XXXX">annually</TIMEX3>, while Dow Jones based its projections of Telerate's performance on a 12% revenue growth forecast. In the tender offer supplement, Dow Jones discloses the different growth forecasts but says it views the 20% growth rate "as a hoped-for goal" of Telerate's management "and not as a realistic basis on which to project the company's likely <TIMEX3 tid="t7" type="DATE" value="FUTURE_REF">future</TIMEX3> performance."
+
+Telerate shares fell 50 cents on <TIMEX3 tid="t8" type="DATE" value="1989-09-29-WXX-5">Friday</TIMEX3> to close at $20 each in New York Stock Exchange composite trading. Dow Jones shares also fell 50 cents to close at $36.125 in Big Board composite trading.
+
+Dow Jones has said it believes the $18-a-share price is fair to Telerate's minority shareholders. <TIMEX3 tid="t9" type="DATE" value="1989-09-W38">Late last week</TIMEX3>, representatives of Dow Jones and Telerate began negotiations about the terms of the offer, but those talks didn't result in any changes in the offer.
+
+Telerate provides information about financial markets through an electronic network. Dow Jones, which owns 67% of Telerate, publishes The Wall Street Journal, Barron's magazine, community newspapers and operates financial news services and computer data bases.
+</TEXT>
+</TimeML>

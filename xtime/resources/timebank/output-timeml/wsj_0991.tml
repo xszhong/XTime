@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0991</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-26">1989-10-26</TIMEX3></DCT>
+<TEXT>
+Total Assets Protection Inc., rebounding from its earlier loss, expects to report earnings from operations of about $200,000 for <TIMEX3 tid="t1" type="DATE" value="1989-Q3">the third quarter</TIMEX3>, J.C. Matlock, chairman, said.
+
+Net income includes an extraordinary gain of about $100,000 from the reversal of bad debt and interest income. Revenue was about $4.5 million. In the <TIMEX3 tid="t2" type="DATE" value="1988-Q3">1988 third quarter</TIMEX3>, the company posted a net loss of $876,706, or 22 cents a share, on revenue of about $5.1 million.
+
+Total Assets plans and designs computer centers, computer security systems and computer backup systems.
+</TEXT>
+</TimeML>

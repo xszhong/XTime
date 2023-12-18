@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0132</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-02">1989-11-02</TIMEX3></DCT>
+<TEXT>
+N.V. DSM said net income in <TIMEX3 tid="t1" type="DATE" value="1989-Q3">the third quarter</TIMEX3> jumped 63% as the company had substantially lower extraordinary charges to account for a restructuring program.
+
+The Dutch chemical group said net income gained to 235 million guilders ($113.2 million), or 6.70 guilders a share, from 144 million guilders, or 4.10 guilders a share, <TIMEX3 tid="t2" type="DATE" value="1988">a year ago</TIMEX3>.
+
+The 32% state-owned DSM had eight million guilders of extraordinary charges in <TIMEX3 tid="t3" type="DATE" value="1989-Q4">the latest quarter</TIMEX3>, mainly to reflect one-time losses in connection with the disposal of some operations. The charges were offset in part by a gain from the sale of the company's construction division.
+
+<TIMEX3 tid="t4" type="DATE" value="1988">Last year</TIMEX3>, DSM had 71 million guilders of extraordinary charges for the restructuring program and other transactions.
+
+The earnings growth also was fueled by the company's ability to cut net financing spending by half to around 15 million guilders. Also, substantially lower Dutch corporate tax rates helped the company keep its tax outlay flat relative to earnings growth, the company added.
+
+Sales, however, were little changed at 2.46 billion guilders, compared with 2.42 billion guilders.
+</TEXT>
+</TimeML>

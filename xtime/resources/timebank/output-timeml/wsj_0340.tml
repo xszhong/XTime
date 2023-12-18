@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0340</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-01">1989-11-01</TIMEX3></DCT>
+<TEXT>
+The portfolio unit of the French bank group Credit Lyonnais told stock market regulators that it bought 43,000 shares of Cie. de Navigation Mixte, apparently to help fend off an unwelcome takeover bid for the company.
+
+Earlier <TIMEX3 tid="t1" type="DATE" value="1989-10-31">yesterday</TIMEX3>, the Societe de Bourses Francaises was told that a unit of Framatome S.A. also bought Navigation Mixte shares, this purchase covering more than 160,000 shares.
+
+Both companies are allies of Navigation Mixte in its fight against a hostile takeover bid launched <TIMEX3 tid="t2" type="DATE" value="1989-10-W43">last week</TIMEX3> by Cie. Financiere de Paribas at 1,850 French francs ($297) a share. Navigation Mixte's chairman had suggested that friendly institutions were likely to buy its stock as soon as trading opened <TIMEX3 tid="t3" type="DATE" value="1989-10-30-WXX-1">Monday</TIMEX3>.
+
+The Credit Lyonnais purchase, for 33,000 regular common shares and 10,000 newly created shares, is valued at about slightly more than 80 million French francs.
+</TEXT>
+</TimeML>

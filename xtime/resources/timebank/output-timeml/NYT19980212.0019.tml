@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>NYT19980212.0019</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1998-02-12">1998-02-12</TIMEX3></DCT>
+<TEXT>
+NEW YORK _ A Brooklyn woman who was watching her clothes dry in a laundromat was killed <TIMEX3 tid="t1" type="TIME" value="1998-02-12-WXX-4TEV">Thursday evening</TIMEX3> when two would-be robbers emptied their pistols into the store, the police said. The men appeared in the store at 469 Vermont St. in Brownsville around <TIMEX3 tid="t2" type="TIME" value="1998-02-12T19:15">7:15 p.m.</TIMEX3>, after the victim, Linda Sanders, 35, had finished her cleaning and was waiting for her clothes to dry, detectives said. ``It looks as though they panicked,'' a detective, speaking on condition of anonymity, said of the robbers. ``They intended to rob the place. There were four or five people inside, and they just started firing.'' Ms. Sanders was hit several times and was pronounced dead at the scene. The other customers fled, and the police said it did not appear that anyone else was injured. The men took no money from their victim or from the establishment, said Detective Joseph Pentangelo, a Police Department spokesman. Victor Miranda, who lives in Ms. Sanders' apartment building at 405 Williams Ave., said the laundry machines in the building were removed <TIMEX3 tid="t3" type="DATE" value="PAST_REF">a few years ago</TIMEX3> to make room for management offices.
+</TEXT>
+</TimeML>

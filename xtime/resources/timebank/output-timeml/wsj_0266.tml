@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0266</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-01">1989-11-01</TIMEX3></DCT>
+<TEXT>
+I was pleased to note that your <TIMEX3 tid="t1" type="DATE" value="1989-10-23">Oct. 23</TIMEX3> Centennial Journal item recognized the money-fund concept as one of the significant events of <TIMEX3 tid="t2" type="DATE" value="19">the past century</TIMEX3>. Actually, <TIMEX3 tid="t3" type="DATE" value="1987">about two years ago</TIMEX3>, the Journal listed the creation of the money fund as one of the 10 most significant events in the world of finance in <TIMEX3 tid="t4" type="DATE" value="19">the 20th century</TIMEX3>. But the Reserve Fund, America's first money fund, was not named, nor were the creators of the money-fund concept, Harry Brown and myself. We innovated telephone redemptions, <TIMEX3 tid="t5" type="SET" value="XXXX-XX-XX">daily</TIMEX3> dividends, total elimination of share certificates and the constant $1 pershare pricing, all of which were painfully thought out and not the result of some inadvertence on the part of the SEC.
+
+BRUCE R. BENT President The Reserve Fund New York
+</TEXT>
+</TimeML>

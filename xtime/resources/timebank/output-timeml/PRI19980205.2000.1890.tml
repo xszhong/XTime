@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>PRI19980205.2000.1890</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="19980205">19980205</TIMEX3></DCT>
+<TEXT>
+The US is bolstering its military presence in the gulf, as President Clinton discussed the Iraq crisis with the one ally who has backed his threat of force, British prime minister Tony Blair. The World's Nancy Marshall reports on Mr. Blair's current visit to Washington and the special relationship between the two leaders.
+
+President Clinton rolled out the red carpet for prime minister Blair, welcoming him not only as a close ally, but a close friend.
+
+Posing for photographers with Clinton, Blair pledged to stand united with the president against Iraq, warning Saddam Hussein that the threat of force is real. The British aircraft carrier invincible is <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3> patrolling the Persian Gulf alongside three US vessels. Washington and London are virtually alone in warning Iraq of military strikes if it doesn't back down on the weapons inspection issue. President Clinton says he and Blair will stand together not just on Iraq but also on arresting the terrorists suspected of blowing up Pan <TIMEX3 tid="t2" type="TIME" value="1998-02-05">Am</TIMEX3> flight one oh three over Scotland. For The World I'm Nancy Marshall in Washington.
+</TEXT>
+</TimeML>

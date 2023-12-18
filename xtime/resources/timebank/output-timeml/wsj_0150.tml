@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0150</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-02">1989-11-02</TIMEX3></DCT>
+<TEXT>
+A.L. Williams Corp. was merged into Primerica Corp., New York, after a special meeting of Williams shareholders cleared the transaction, the companies said.
+
+Primerica, which had owned nearly 70% of Williams, will pay about 16.7 million shares, <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">currently</TIMEX3> valued at almost $472 million, for the rest of Williams. The financial-services company will pay 0.82 share for each Williams share.
+
+Williams shares, which were to be delisted from the New York Stock Exchange after the close of composite trading <TIMEX3 tid="t2" type="DATE" value="1989-11-01">yesterday</TIMEX3>, closed at $23.25, off 12.5 cents. Primerica closed at $28.25, down 50 cents.
+
+Williams, Duluth, Ga., is an insurance and financial-services holding company. Its subsidiaries' services are marketed by closely held A.L. Williams amp Associates. Primerica, as expected, also acquired certain assets of the agency and assumed certain of its liabilities. Terms weren't disclosed.
+</TEXT>
+</TimeML>

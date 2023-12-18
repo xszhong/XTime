@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0706</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-27">1989-10-27</TIMEX3></DCT>
+<TEXT>
+Security Pacific Corp. has set its sights on buying its second bank holding company <TIMEX3 tid="t1" type="DATE" value="1989">this year</TIMEX3>.
+
+Security said it signed a letter of intent to purchase La Jolla Bancorp, agreeing to pay $15 of its own stock for each share of La Jolla. Based on the current number of La Jolla shares, that gives the transaction a value of $104 million.
+
+La Jolla is the parent company of La Jolla Bank amp Trust Co., which has 12 branches in San Diego County. As of <TIMEX3 tid="t2" type="DATE" value="1989-09-30">Sept. 30</TIMEX3>, the bank had assets of $511 million and deposits of $469 million, Security Pacific said.
+
+Earlier <TIMEX3 tid="t3" type="DATE" value="1989-09">this month</TIMEX3>, Security Pacific, which is among the 10 largest bank holding companies in the U.S., completed the acquisition of San Diego-based Southwest Bancorp.
+</TEXT>
+</TimeML>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0471</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-31">1989-10-31</TIMEX3></DCT>
+<TEXT>
+Dataproducts Inc. said it filed a lawsuit in Delaware Chancery Court to block a tender offer by DPC Acquisition Partners, alleging that the hostile offer violates a standstill agreement between the two concerns.
+
+DPC, an investor group led by New York-based Crescott Investment Associates, had itself filed a suit in state court in Los Angeles seeking to nullify the agreement. Earlier <TIMEX3 tid="t1" type="DATE" value="1989">this year</TIMEX3>, Dataproducts had rejected a $15 a share offer from DPC, saying it wasn't adequately financed. DPC <TIMEX3 tid="t2" type="DATE" value="1989-10-W43">last week</TIMEX3> launched a new, $10-a-share offer for the Woodland Hills, Calif.-based computer printer maker.
+
+DPC said it couldn't comment on the suit.
+</TEXT>
+</TimeML>

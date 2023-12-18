@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0152</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-02">1989-11-02</TIMEX3></DCT>
+<TEXT>
+Dow Jones amp Co. said it extended its $18-a-share offer for Telerate Inc. common stock until <TIMEX3 tid="t1" type="TIME" value="1989-11-09T17:00">5 p.m. EST Nov. 9</TIMEX3>.
+
+The offer, valued at about $576 million for the 33% of Telerate that Dow Jones doesn't already own, had been set to expire <TIMEX3 tid="t2" type="DATE" value="1989-11-06">Nov. 6</TIMEX3>.
+
+Dow Jones, which owns about 64 million of Telerate's 95 million common shares outstanding, said that about 24,000 shares have been tendered under its offer.
+
+Telerate's two independent directors have rejected the offer as inadequate. In composite trading on the New York Stock Exchange, Telerate shares closed at $19.50, up 12.5 cents.
+
+Telerate provides an electronic financial information network. Dow Jones publishes The Wall Street Journal, Barron's magazine, and community newspapers and operates financial news services and computer data bases.
+</TEXT>
+</TimeML>

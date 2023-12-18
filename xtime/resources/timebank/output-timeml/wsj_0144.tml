@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0144</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-02">1989-11-02</TIMEX3></DCT>
+<TEXT>
+Travelers Corp.'s <TIMEX3 tid="t1" type="DATE" value="1989-Q3">third-quarter</TIMEX3> net income rose 11%, even though claims stemming from Hurricane Hugo reduced results $40 million.
+
+Net advanced to $94.2 million, or 89 cents a share, from $85 million, or 83 cents a share, including net realized investment gains of $31 million, up from $10 million <TIMEX3 tid="t2" type="DATE" value="1988">a year ago</TIMEX3>. But revenue declined to $3 billion from $3.2 billion.
+
+Travelers estimated that the California earthquake <TIMEX3 tid="t3" type="DATE" value="1989-10">last month</TIMEX3> will result in a <TIMEX3 tid="t4" type="DATE" value="1989-Q4">fourth-quarter</TIMEX3> pre-tax charge of less than $10 million.
+
+The insurer's earnings from commercial property/casualty lines fell 59% in <TIMEX3 tid="t5" type="DATE" value="1989-Q4">the latest quarter</TIMEX3>, while it lost $7.2 million in its personal property/casualty business, compared with earnings of $6.1 million <TIMEX3 tid="t6" type="DATE" value="1988">a year ago</TIMEX3>.
+
+Travelers's employee benefits group, which includes its group health insurance operations, posted earnings of $24 million, compared with a loss of $3 million <TIMEX3 tid="t7" type="DATE" value="1988">last year</TIMEX3>.
+
+In <TIMEX3 tid="t8" type="DURATION" value="P9M">the first nine months</TIMEX3>, net was $306 million, compared with a loss of $195 million in the <TIMEX3 tid="t9" type="DATE" value="1988">1988</TIMEX3> period. The year-ago results included a $415 million charge in the <TIMEX3 tid="t10" type="DATE" value="1988-Q2">1988 second quarter</TIMEX3> for underperforming real estate and mortgage loans.
+</TEXT>
+</TimeML>

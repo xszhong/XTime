@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>ABC19980304.1830.1636</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1998-03-04">1998-03-04</TIMEX3></DCT>
+<TEXT>
+Finally <TIMEX3 tid="t1" type="DATE" value="1998-03-04">today</TIMEX3>, we learned that the space agency has finally taken a giant leap forward. Air Force Lieutenant Colonel Eileen Collins will be named commander of the Space Shuttle Columbia for a mission in <TIMEX3 tid="t2" type="DATE" value="1998-12">December</TIMEX3>. Colonel Collins has been the co-pilot before, but this time she's the boss. Here's ABC's Ned Potter.
+
+Even two hundred miles up in space, there has been a glass ceiling. It wasn't until <TIMEX3 tid="t3" type="DURATION" value="P20Y">twenty years</TIMEX3> after the first astronauts were chosen that NASA finally included six women, and they were all scientists, not pilots. No woman has actually been in charge of a mission until <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">now</TIMEX3>.
+
+Just the fact that we're doing the job that we're doing makes us role models.
+
+That was Eileen Collins, after she flew as the first ever co-pilot. Being commander is different. It means supervising the rest of the crew in training and leading them in flight. It is, in short, the kind of management job many American women say they've had to fight for. In space, some say female pilots were held up until <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">now</TIMEX3> by the lack of piloting opportunities for them in the military.
+
+Once Colonel Collins was picked as a NASA astronaut, she followed a normal progression within NASA. Nobody hurried her up. No one held her back.
+
+Many NASA watchers say female astronauts have become part of the agency's routine. But they still have catching up to do two hundred and thirty four Americans have flown in space, only twenty six of them women. Ned Potter, ABC News.
+</TEXT>
+</TimeML>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0713</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-27">1989-10-27</TIMEX3></DCT>
+<TEXT>
+West German and French authorities have cleared Dresdner Bank AG's takeover of a majority stake in Banque Internationale de Placement (BIP), Dresdner Bank said.
+
+The approval, which had been expected, permits West Germany's second-largest bank to acquire shares of the French investment bank.
+
+In a first step, Dresdner Bank will buy 32.99% of BIP for 1,015 French francs ($162) a share, or 528 million francs ($84.7 million). Dresdner Bank said it will also buy all shares tendered by shareholders on the Paris Stock Exchange at the same price from <TIMEX3 tid="t1" type="DATE" value="1989-10-27">today</TIMEX3> through <TIMEX3 tid="t2" type="DATE" value="1989-11-17">Nov. 17</TIMEX3>. In addition, the bank has an option to buy a 30.84% stake in BIP from Societe Generale after <TIMEX3 tid="t3" type="DATE" value="1990-01-01">Jan. 1, 1990</TIMEX3> at 1,015 francs a share.
+</TEXT>
+</TimeML>

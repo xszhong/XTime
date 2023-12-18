@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0752</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-27">1989-10-27</TIMEX3></DCT>
+<TEXT>
+AEP INDUSTRIES Inc. directors authorized a 3-for-2 split of the common, payable <TIMEX3 tid="t1" type="DATE" value="1989-12-07">Dec. 7</TIMEX3> to stock of record <TIMEX3 tid="t2" type="DATE" value="1989-11-22">Nov. 22</TIMEX3>. The split was aimed at boosting the stock's liquidity, said Brendan Barba, chairman of the Moonachie, N.J., maker of plastic film products. After the split, the company will have more than 4.7 million shares outstanding. In national over-the-counter trading <TIMEX3 tid="t3" type="DATE" value="1989-10-26">yesterday</TIMEX3>, AEP shares closed at $21.25, down 50 cents.
+</TEXT>
+</TimeML>

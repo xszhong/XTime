@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0610</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-30">1989-10-30</TIMEX3></DCT>
+<TEXT>
+This hasn't been Kellogg Co.'s <TIMEX3 tid="t1" type="DATE" value="1989">year</TIMEX3>. The oat-bran craze has cost the world's largest cereal maker market share. The company's president quit suddenly. And <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">now</TIMEX3> Kellogg is indefinitely suspending work on what was to be a $1 billion cereal plant.
+
+The company said it was delaying construction because of current market conditions. But the Memphis, Tenn., facility wasn't to begin turning out product until <TIMEX3 tid="t3" type="DATE" value="1993">1993</TIMEX3>, so the decision may reveal a more pessimistic long-term outlook as well.
+
+Kellogg, which hasn't been as successful in capitalizing on the public's health-oriented desire for oat bran as rival General Mills Inc., has been losing share in the $6 billion ready-to-eat cereal market. Kellogg's current share is believed to be slightly under 40% while General Mills' share is about 27%.
+
+Led by its oat-based Cheerios line, General Mills has gained an estimated 2% share so far <TIMEX3 tid="t4" type="DATE" value="1993">this year</TIMEX3>, mostly at the expense of Kellogg. Each share point is worth about $60 million in sales.
+
+Analysts say much of Kellogg's erosion has been in such core brands as Corn Flakes, Rice Krispies and Frosted Flakes, which represent nearly one-third of its sales volume. Kellogg is so anxious to turn around Corn Flakes sales that it soon will begin selling boxes for as little as 99 cents, trade sources say.
+
+"Cheerios and Honey Nut Cheerios have eaten away sales normally going to Kellogg's corn-based lines simply because they are made of oats," says Merrill Lynch food analyst William Maguire. "They are not a happy group of people at Battle Creek <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">right now</TIMEX3>." Kellogg is based in Battle Creek, Mich., a city that calls itself the breakfast capital of the world.
+
+Another analyst, John C. Maxwell Jr. of Wheat, First Securities in Richmond, Va., <TIMEX3 tid="t6" type="DATE" value="PAST_REF">recently</TIMEX3> went to a "sell" recommendation on Kellogg stock, which closed <TIMEX3 tid="t7" type="DATE" value="1993-10-29-WXX-5">Friday</TIMEX3> at $71.75, down 75 cents, in New York Stock Exchange composite trading. "I don't think Kellogg can get back to 40% <TIMEX3 tid="t8" type="DATE" value="1993">this year</TIMEX3>," he said. "Kellogg's main problem is life style. People are reading the boxes and deciding they want something that's `healthy' for you -- oats, bran." Mr. Maxwell said he wouldn't be surprised if, over <TIMEX3 tid="t9" type="DURATION" value="P2Y">the next two years</TIMEX3> or so, General Mills' share increased to 30% or more.
+
+In announcing the plant delay, Kellogg Chairman William E. LaMothe said, "Cereal volume growth in the U.S. has not met our expectations for <TIMEX3 tid="t10" type="DATE" value="1989">1989</TIMEX3>". He said construction wouldn't resume until market conditions warrant it.
+
+Kellogg indicated that it has room to grow without adding facilities. The company has five other U.S. plants, including a modern facility at its Battle Creek headquarters known as Building 100, which is to add bran-processing and rice-processing capacity <TIMEX3 tid="t11" type="DATE" value="1990">next year</TIMEX3>.
+
+General Mills, meanwhile, finds itself constrained from boosting sales further because its plants are operating at capacity. A large plant in Covington, Ga., is to come on line <TIMEX3 tid="t12" type="DATE" value="1990">next year</TIMEX3>.
+
+A Kellogg officer, who asked not to be named, said the Memphis project was " pulled in for a reconsideration of costs," an indication that the ambitious plans might be scaled back in any future construction. Initial cost estimates for the plant, which was to have been built in phases, ranged from $1 billion to $1.2 billion.
+
+A company spokesman said it was "possible, but highly unlikely," that the plant might never be built. "As we regain our leadership level where we have been, and as we continue to put new products into the marketplace and need additional capacity, we will look at resuming our involvement with our plan," he said.
+
+The new facility was to have been the world's most advanced cereal manufacturing plant, and Kellogg's largest construction project. The company had retained the Fluor Daniel unit of Fluor Corp. as general contractor.
+
+But in <TIMEX3 tid="t13" type="DURATION" value="PXW">recent weeks</TIMEX3>, construction-industry sources reported that early preparation work was slowing at the 185-acre site. Subcontractors said they were told that equipment orders would be delayed. Fluor Daniel already has reassigned most of its work crew, the sources said.
+
+<TIMEX3 tid="t14" type="DATE" value="1989-10-27-WXX-5">Last Friday</TIMEX3>'s announcement was the first official word that the project was in trouble and that the company's plans for a surge in market share may have been overly optimistic. Until <TIMEX3 tid="t15" type="DATE" value="PAST_REF">recently</TIMEX3>, Kellogg had been telling its sales force and Wall Street that by <TIMEX3 tid="t16" type="DATE" value="1992">1992</TIMEX3> it intended to achieve a 50% share of market, measured in dollar volume.
+
+Although he called current market conditions "highly competitive," Mr. LaMothe, Kellogg's chairman and chief executive officer, forecast an earnings increase for the full <TIMEX3 tid="t17" type="DATE" value="1992">year</TIMEX3>. <TIMEX3 tid="t18" type="DATE" value="1991">Last year</TIMEX3>, the company earned $480.4 million, or $3.90 a share, on sales of $4.3 billion.
+
+As expected, Kellogg reported lower <TIMEX3 tid="t19" type="DATE" value="1992-Q3">third-quarter</TIMEX3> earnings. Net fell 16% to $123.1 million, or $1.02 a share, from $145.7 million, or $1.18 a share. Sales rose 4.8% to $1.20 billion from $1.14 billion.
+
+The company had a one-time charge of $14.8 million in <TIMEX3 tid="t20" type="DATE" value="1992-Q4">the latest quarter</TIMEX3> covering the disposition of certain assets. The company wouldn't elaborate, citing competitive reasons.
+</TEXT>
+</TimeML>

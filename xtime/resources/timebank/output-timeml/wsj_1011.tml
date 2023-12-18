@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_1011</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-26">1989-10-26</TIMEX3></DCT>
+<TEXT>
+Delta Air Lines earnings soared 33% to a record in the fiscal <TIMEX3 tid="t1" type="DATE" value="1989-Q1">first quarter</TIMEX3>, bucking the industry trend toward declining profits.
+
+The Atlanta-based airline, the third largest in the U.S., attributed the increase to higher passenger traffic, new international routes and reduced service by rival Eastern Airlines, which is in bankruptcy proceedings in the wake of a strike that began <TIMEX3 tid="t2" type="DATE" value="1988-SP">last spring</TIMEX3>.
+
+For <TIMEX3 tid="t3" type="DATE" value="1989-Q4">the quarter</TIMEX3> ended <TIMEX3 tid="t4" type="DATE" value="1989-09-30">Sept. 30</TIMEX3>, Delta posted net income of $133.1 million, or $2.53 a share, up from $100 million, or $2.03 a share, <TIMEX3 tid="t5" type="DATE" value="1988">a year earlier</TIMEX3>.
+
+Revenue rose 15% to $2.17 billion from $1.89 billion. During <TIMEX3 tid="t6" type="DATE" value="1989-Q3">the quarter</TIMEX3>, Delta issued 2.5 million shares of common stock to Swissair, and repurchased 1.1 million shares for use in a company employee stock ownership plan.
+
+"The key to Delta's record earnings continued to be excellent passenger revenue growth," said Thomas Roeck, chief financial officer. Passenger traffic jumped 14% in <TIMEX3 tid="t7" type="DATE" value="1989-Q3">the quarter</TIMEX3>, while profit per passenger grew 2%.
+
+Delta has benefited more than other carriers from the weakness of Eastern Airlines, which shares the Atlanta hub. Although Eastern is back to about 80% of its pre-strike schedule <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">now</TIMEX3>, the Texas Air Corp. subsidiary was only beginning to get back on its feet during <TIMEX3 tid="t9" type="DATE" value="1989-Q3">the quarter</TIMEX3>.
+
+Separately, America West Airlines, Phoenix, Ariz., reported <TIMEX3 tid="t10" type="DATE" value="1989-Q3">third-quarter</TIMEX3> profit jumped 45% to $5.8 million, or 28 cents a share, from $4 million, or 24 cents a share, <TIMEX3 tid="t11" type="DATE" value="1988">a year earlier</TIMEX3>. The latest results include a $2.6 million one-time payment from a "foreign entity." America West wouldn't identify the entity, but said the payment was for the foreign company's use of certain tax benefits in connection with America West plane purchases. Year-earlier results included an extraordinary gain of $1.6 million from a buy-back of convertible subordinated debentures.
+
+Revenue rose 21% to $243.4 million from $201.2 million. For <TIMEX3 tid="t12" type="DURATION" value="P9M">the nine months</TIMEX3>, America West posted earnings of $18.9 million, or 97 cents a share, compared with a loss of $9.7 million, or 74 cents a share, <TIMEX3 tid="t13" type="DATE" value="1988">a year earlier</TIMEX3>. Revenue rose 27% to $715.1 million from $563.8 million.
+</TEXT>
+</TimeML>

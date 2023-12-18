@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>PRI19980306.2000.1675</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="19980306">19980306</TIMEX3></DCT>
+<TEXT>
+For The World, this is Pamela McCall in the BBC news room in London. More heavy gunfire in the Serbian province of Kosovo. It's <TIMEX3 tid="t1" type="DATE" value="P1D">the second day</TIMEX3> of an offensive by the security forces against villages populated by ethnic Albanians. BBC correspondent Karyn Coleman reports from Kosovo.
+
+There were more accounts of people fleeing from the villages near where the offensive was taking place. They were too afraid to stay, fearing the forces may also move their operations further afield. By <TIMEX3 tid="t2" type="TIME" value="1998-03-06TAF">mid afternoon</TIMEX3>, official Serb sources were saying the operation was over, but that has not yet been confirmed from Belgrade, the capital of Serbia, which is where the whole attack is thought to have been planned. The ethnic Albanians here in Kosovo are considerably worried about <TIMEX3 tid="t3" type="DATE" value="FUTURE_REF">the future</TIMEX3> and fear they are witnessing the beginnings of a much wider conflict. Karyn Coleman, BBC news, Pristina.
+</TEXT>
+</TimeML>

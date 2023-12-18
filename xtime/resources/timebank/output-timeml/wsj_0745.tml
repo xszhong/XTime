@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0745</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-27">1989-10-27</TIMEX3></DCT>
+<TEXT>
+General Motors Corp. wants to buy as much as 15% of Jaguar PLC, marking its first salvo in a possible full-scale battle against Ford Motor Co. for control of the British car maker.
+
+GM sought U.S. antitrust clearance <TIMEX3 tid="t1" type="DATE" value="1989-10-W42">last week</TIMEX3> to purchase more than $15 million worth of Jaguar shares but doesn't own any yet, according to GM officials here and at the company's Detroit headquarters. The No. 1 U.S. auto maker then wrote Jaguar that it intends "to go to that 15%" level once it wins the U.S. clearance to go beyond $15 million, a Jaguar spokesman said <TIMEX3 tid="t2" type="DATE" value="1989-10-26">yesterday</TIMEX3>.
+
+The GM move follows <TIMEX3 tid="t3" type="DATE" value="1989-10-24-WXX-2">Tuesday</TIMEX3>'s declaration by Ford, which holds an unwelcome 12.45% stake in Jaguar, that it is prepared to bid for the entire company. GM is close to completing a friendly deal with Jaguar that is likely to involve an eventual 30% stake and joint manufacturing ventures. Speculative investors, betting on an imminent clash between Ford and GM, pushed up Jaguar's share price five pence (eight U.S. cents) to a near-record 720 pence ($11.60) in late trading on London's stock exchange <TIMEX3 tid="t4" type="DATE" value="1989-10-26">yesterday</TIMEX3>. Since <TIMEX3 tid="t5" type="DATE" value="1989-10-24-WXX-2">Tuesday</TIMEX3>, the shares have gained nearly 4%.
+
+But an all-out bidding war between the world's top auto giants for Britain's leading luxury-car maker seems unlikely. "We will not go over a certain level," said David N. McCammon, Ford's vice president for finance, at a news conference <TIMEX3 tid="t6" type="DATE" value="1989-10-26">yesterday</TIMEX3> in Dearborn, Mich. "There's some price at which we'd stop bidding." He wouldn't specify what it was.
+
+And powerful political pressures may convince the Conservative government to keep its so-called golden share, which limits any individual holding to 15%, until the restriction expires on <TIMEX3 tid="t7" type="DATE" value="1990-12-31">Dec. 31, 1990</TIMEX3>.
+
+"I really don't see the government doing something that Jaguar doesn't want over <TIMEX3 tid="t8" type="DURATION" value="P14M">the next 14 months</TIMEX3>," said Kenneth Warren, a Conservative member of Parliament and chairman of the Select Committee on Trade and Industry in Britain's House of Commons. "The golden share is a single share, but it is the magic share."
+
+The government retained the single share after selling its stake in Jaguar in <TIMEX3 tid="t9" type="DATE" value="1984">1984</TIMEX3> -- part of a nationalistic practice of protecting former government-owned enterprises to deflect criticism of privatization. The 15% restriction covers any would-be suitor, British or foreign.
+
+Ford is willing to bid for 100% of Jaguar's shares if both the government and Jaguar shareholders agree to relax the anti-takeover barrier prematurely. As Jaguar's biggest holder and Britain's biggest car maker, Ford could turn up the heat by convening a special shareholders' meeting and urging holders to drop the limits early. Ford might succeed because many shareholders are speculators keen for a full bid or institutional investors unhappy over Jaguar management's handling of its current financial difficulties.
+
+The government probably wouldn't give in readily to a hostile foray by Ford, however. It has relinquished a golden share only once before -- during British Petroleum Co.'s #2.5 billion ( $4 billion ) takeover of Britoil PLC in <TIMEX3 tid="t10" type="DATE" value="1988">1988</TIMEX3>.
+
+In wooing British lawmakers, GM has pointed out that its willingness to settle for a minority stake would keep Jaguar British-owned and independent. <TIMEX3 tid="t11" type="DATE" value="1988-12-W53">This week</TIMEX3>, the U.S. auto giant paid for 10 House of Commons members and two House of Lords members to fly to Detroit and tour its operations there. While the visit was unrelated to Jaguar, GM Chairman Roger Smith answered the legislators' questions about it over lunch <TIMEX3 tid="t12" type="DATE" value="1988-12-27-WXX-2">Tuesday</TIMEX3>. He said Jaguar "shouldn't be smothered by anyone else, " recalled one participant.
+
+Politics also influences the government's thinking on the anti-takeover restriction. The Conservatives don't dare jeopardize marginal Tory seats in Coventry, where Jaguar has headquarters, nor can the government easily back down on promised protection for a privatized company while it proceeds with controversial plans to privatize most of Britain's water and electricity industries.
+
+Prime Minister Margaret Thatcher might, however, be receptive to any request by Jaguar Chairman Sir John Egan for the restriction's early removal to let GM amass more than 15% or mount a friendly suitor bid against Ford. In the end, Sir John -- rather than the government or Jaguar shareholders -- may hold the key that unlocks the golden share.
+</TEXT>
+</TimeML>

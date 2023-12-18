@@ -1,0 +1,72 @@
+[MID_REGEX]	mid-|middle-
+
+[YEAR_REGEX_1]	[1-2][0-9]{3}
+[YEAR_REGEX_2]	'[0-9]{2}
+
+[MONTH_REGEX]	January('s)?|Jan\.?('s)?|February('s)?|Feb\.?('s)?|March('s)?|Mar\.?('s)?|April('s)?|Apr\.?('s)?|May('s)?|June('s)?|Jun\.?('s)?|July('s)?|Jul\.?('s)?|August('s)?|Aug\.?('s)?|September('s)?|Sept?\.?('s)?|October('s)?|Oct\.?('s)?|November('s)?|Nov\.?('s)?|December('s)?|Dec\.?('s)?
+
+[WEEK_REGEX]	monday('s)?|mon\.?|tuesday('s)?|tues\.?|wednesday('s)?|wed\.?|thursday('s)?|thurs?\.?|friday('s)?|fri\.?|saturday('s)?|sat\.?|sunday('s)?|sun\.?
+
+[NUMBER_REGEX_1]	zero|one|two|three|four|five|six|seven|eight|nine|tens?|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety|hundreds?|thousands?
+[NUMBER_REGEX_2]	(twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety)-(one|two|three|four|five|six|seven|eight|nine)
+
+[DIGIT_REGEX_1]	\d+
+
+[ORDINAL_REGEX_1]	(?i)[2-9]?1st|[2-9]?2nd|[2-9]?3rd|[4-9]th|1[0-9]th|[2-9]0th|[2-9][4-9]th|100+th|zeroth|first|second|third|fourth|fifth|sixth|seventh|eighth|ninth|tenth|eleventh|twelfth|twentieth|thirteenth|fourteenth|fifteenth|sixteenth|seventeenth|eighteenth|nineteenth|hundredth|thousandth
+[ORDINAL_REGEX_2]	(twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety)-(first|second|third|fourth|fifth|sixth|seventh|eighth|ninth)
+
+[INARTICLE_REGEX]	a|an
+
+[DATE_REGEX_1]	(?:[1-9]|[0-3][0-9])[-/\.](?:[1-9]|[0-3][0-9])[-/\.][1-2][0-9]{3}
+[DATE_REGEX_2]	[12][0-9]{3}[-/\.](?:0?[1-9]|1[0-2])[-/\.][0-3][0-9]
+[DATE_REGEX_3]	[1-9]{2}[-/\.](?:0?[1-9]|1[0-2])[-/\.][0-3][0-9]
+
+[TIME_REGEX_1]	[0-2]?[0-9]:[0-5]?[0-9]
+[TIME_REGEX_2]	[0-2]?[0-9]:[0-5]?[0-9]:[0-5]?[0-9]
+
+[TIME_ZONE_REGEX]	GMT|DST|BST|EST|UTC|SGT|PST|MST|CST|CET|MSK|IST|JST|AEDT|NZDT
+
+[HALFDAY_REGEX_1]	a\.?m\.?|p\.?m\.?
+
+[ERA_REGEX]	a\.?d\.?|b\.?c\.?
+
+[DECADE_REGEX]	twenties|thirties|forties|fifties|sixties|seventies|eighties|nineties|(12|13|14|15|16|17|18|19)?(00|10|20|30|40|50|60|70|80|90)s
+
+[CONTINUOUS_TIMEUNIT_REGEX]	decade('s)?|year('s)?|yr('s)?|month('s)?|quarter('s)?|day('s)?|hour('s)?|hr('s)?|minute('s)?|min('s)?|second('s)?|millisecond('s)?|millisec('s)?|week('s)?|wk('s)?|fortnight('s)?|century('s)?|millennia|millennium('s)?|millenia|millenium('s)?|weekday('s)?|wkday('s)
+
+[DISCRETE_TIMEUNIT_REGEX]	weekend('s)?|wkend('s)?
+
+[CONTINUOUS_PERIOD_REGEX]	decades|years|yrs|months|mos|days|hours|hrs|minutes|mins|seconds|secs|milliseconds|millisecs|weeks|wks|fortnights|centurys|centuries|millenniums|milleniums|weekdays|wkdays
+
+[DISCRETE_PERIOD_REGEX]	Januarys'?|Jans\.?'?|Februarys'?|Febs\.?'?|Marchs'?|Mars\.?'?|Aprils'?|Aprs\.?'?|Mays'?|Junes'?|Juns\.?'?|Julys'?|Juls\.?'?|Augusts'?|Augs\.?'?|Septembers'?|Sept?s\.?'?|Octobers'?|Octs\.?'?|Novembers'?|Novs\.?'?|Decembers'?|Decs\.?'?|mondays'?|mons\.?|tuesdays'?|tues\.?|wednesdays'?|weds\.?|thursdays'?|thurs\.?|fridays'?|fris\.?|saturdays'?|sats\.?|sundays'?|suns\.?|quarters|weekends|wkends|springs|summers|falls|autumns|winters
+
+[PERIODICAL_REGEX]	centennially|yearly|annually|hourly|nightly|daily|weekly|monthly|quarterly
+
+[DAY_TIME_REGEX]	morning('?s)?|afternoon('?s)?|evening('?s)?|dusk('?s)?|twilight('?s)?|dawn('?s)?|daybreak('?s)?|sunrise('?s)?|sunup('?s)?|sunset('?s)?|sundown('?s)?|midday('?s)?|noon('?s)?|midnight('?s)?|teatime('?s)?|lunchtime('?s)?|dinnertime('?s)?|suppertime('?s)?|daylight('?s)?|daybreak('?s)?|daytime('?s)?|nighttime('?s)?|night('?s)?|nite('?s)?|overnight('?s)?|tonight('?s)?|tonite('?s)?
+
+[SEASON_REGEX]	spring('?s)?|summer('?s)?|fall('?s)?|autumn('?s)?|winter('?s)?|quarter('s)?
+
+[TIMELINE_REGEX]	now|present|currently|recently|past|previously|medieval|future|moment|yesterday('s)?|today('s)?|tdy('s)?|tomorrow('s)?|tmr('s)?
+
+[PREFIX_COMMON_REGEX]	the|this|that|initial|universal|mid(dle)?|final|coming|upcoming|past|future|latter|late(st)?|current|recent|ides|early|other|alternate|alternating|another|about|around|almost|of|more|less|than|near(ly)?|right|whole|start|beginning|end
+
+[PREFIX_QUANTITATIVE_REGEX]	these|those|some|few|several|couple|half
+
+[PREFIX_OPERATE_REGEX]	next|nxt|following|consecutive|previous|last|after
+
+[PREFIX_FREQUENT_REGEX]	each|every
+
+[SUFFIX_OPERATE_REGEX]	ago
+[SUFFIX_DURA_REGEX]	old
+
+[LINKAGE_REGEX]	and|or|to|-
+
+[COMMA_REGEX]	,
+
+[HOLIDAY_REGEX]	new year('s)? eve|new year('s)?( day)?|inauguration day|groundhog day|(st.?|saint)? valentine('s)? day|april fools( day)?|cinco de mayo|halloween|(x-?mas|christmas) eve|(x-?mas|christmas)( day)?|martin luther king day|mlk day|memorial day|mother('s)? day|father('s) day|labou?r day|columbus day|thanksgiving|easter( day|sunday)?|clean monday|good friday|ash wednesday
+
+[TODAY_REGEX]	today|tdy
+
+[YESTERDAY_REGEX]	yesterday
+
+[TOMORROW_REGEX]	tomorrow|tmr

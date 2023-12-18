@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0709</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-27">1989-10-27</TIMEX3></DCT>
+<TEXT>
+Service Corp. International said it expects to report net income of 15 cents a share for <TIMEX3 tid="t1" type="DATE" value="1989-Q3">the third quarter</TIMEX3>. The company said it expects to release <TIMEX3 tid="t2" type="DATE" value="1989-Q3">third-quarter</TIMEX3> results in <TIMEX3 tid="t3" type="DATE" value="1989-11">mid-November</TIMEX3>.
+
+The funeral home and cemetery operator changed from a fiscal <TIMEX3 tid="t4" type="DATE" value="1989">year</TIMEX3> to a calendar <TIMEX3 tid="t5" type="DATE" value="1989">year</TIMEX3> in <TIMEX3 tid="t6" type="DATE" value="1989-12">December</TIMEX3>. In the comparable year-ago <TIMEX3 tid="t7" type="DATE" value="">quarter</TIMEX3>, <TIMEX3 tid="t8" type="DATE" value="1989-Q2">the second quarter</TIMEX3> ended <TIMEX3 tid="t9" type="DATE" value="1989-10-31">Oct. 31</TIMEX3>, Service Corp. had a loss of about $12.5 million, or 26 cents a share, on revenue of $175.4 million. Results for <TIMEX3 tid="t10" type="DATE" value="1989-Q4">that quarter</TIMEX3> included a $30 million, or 40 cents a share, write-down associated with the consolidation of a facility.
+</TEXT>
+</TimeML>

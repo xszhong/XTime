@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0533</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-30">1989-10-30</TIMEX3></DCT>
+<TEXT>
+Two rival bidders for Connaught BioSciences extended their offers to acquire the Toronto-based vaccine manufacturer <TIMEX3 tid="t1" type="DATE" value="1989-11-03-WXX-5">Friday</TIMEX3>.
+
+Institut Merieux S.A., which offered 942 million Canadian dollars (US$801.2 million), or C$37 a share for Connaught, said it would extend its bid, due to expire <TIMEX3 tid="t2" type="DATE" value="1989-11-06">last Thursday, to Nov. 6</TIMEX3>.
+
+A C$30-a-share bid by Ciba-Geigy Ltd., a pharmaceutical company based in Basel, Switzerland, and California-based Chiron Corp., a bioresearch concern, was extended to <TIMEX3 tid="t3" type="DATE" value="1989-11-16">Nov. 16</TIMEX3>. It had been due to expire <TIMEX3 tid="t4" type="TIME" value="1989-11-17-WXX-5TEV">Friday evening</TIMEX3>.
+
+Merieux <TIMEX3 tid="t5" type="DATE" value="PAST_REF">previously</TIMEX3> said it would ensure its bid remained open pending a final decision by Canadian regulators on whether to approve the takeover. Merieux, a vaccine and bioresearch firm based in Lyon, France, is controlled 50.1% by state-owned Rhone Poulenc S.A.
+
+The Canadian government <TIMEX3 tid="t6" type="DATE" value="PAST_REF">previously</TIMEX3> said Merieux's bid didn't offer enough "net benefit" to Canada to be approved, and gave Merieux an until <TIMEX3 tid="t7" type="DATE" value="1989-11">mid-November</TIMEX3> to submit additional information.
+
+Merieux officials said <TIMEX3 tid="t8" type="DATE" value="1989-11-W45">last week</TIMEX3> that they are "highly confident" the offer will be approved once it submits details of its proposed investments to federal regulators.
+
+Both offers are conditional on regulatory approvals and enough shares being tendered to give the bidders a majority of Connaught's shares outstanding.
+
+Institut Merieux, which already holds a 12.5% stake in Connaught, said that at the close of business <TIMEX3 tid="t9" type="DATE" value="1989-11-16-WXX-4">Thursday</TIMEX3>, 5,745,188 shares of Connaught and C$44.3 million face amount of debentures, convertible into 1,826,596 common shares, had been tendered to its offer. At the close of business <TIMEX3 tid="t10" type="DATE" value="1989-11-16-WXX-4">Thursday</TIMEX3>, Ciba-Geigy and Chiron said 11,580 common shares had been tendered to their offer. At last report, Connaught had 21.8 million shares outstanding.
+
+Separately, the Ontario Supreme Court said it will postpone indefinitely a ruling on the lawsuit launched by the University of Toronto against Connaught in connection with the Merieux bid.
+
+In a statement prepared by lawyers for the university and Connaught, the parties said they agreed that as a result of reaching a C415 million research accord, "It is unnecessary that there be a judgment on the merits {of the case} at this time."
+
+Lawyers for the two sides weren't immediately available for comment.
+
+The university had sought an injunction blocking Connaught's board from recommending or supporting an offer for the company by Merieux.
+</TEXT>
+</TimeML>

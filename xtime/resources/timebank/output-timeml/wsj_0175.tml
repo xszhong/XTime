@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0175</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-02">1989-11-02</TIMEX3></DCT>
+<TEXT>
+Sony Corp. completed its tender offer for Columbia Pictures Entertainment Inc., with Columbia shareholders tendering 99.3% of all common shares outstanding by <TIMEX3 tid="t1" type="DATE" value="1989-10-31-WXX-2">the Tuesday</TIMEX3> deadline.
+
+Sony Columbia Acquisition Corp., formed for the Columbia deal, will formally take ownership of the movie studio later <TIMEX3 tid="t2" type="DATE" value="1989-11">this month</TIMEX3>, a spokesman said. Sony is paying $27 a share, or $3.55 billion, cash and is assuming $1.4 billion of long-term debt.
+
+Still unresolved is Sony's effort to hire producers Jon Peters and Peter Guber to run the studio. Sony's planned acquisition of Guber/Peters Entertainment Co. for $200 million is scheduled to close <TIMEX3 tid="t3" type="DATE" value="1989-10-30-WXX-1">Monday</TIMEX3>. Guber/Peters has been locked in litigation with Warner Communications Inc. in an attempt to get out of an exclusive production contract with Warner. Both sides are in talks to settle the dispute.
+</TEXT>
+</TimeML>

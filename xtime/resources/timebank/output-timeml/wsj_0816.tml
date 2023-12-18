@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0816</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-27">1989-10-27</TIMEX3></DCT>
+<TEXT>
+Some lousy earnings reports whacked the stock market, but bond prices fell only slightly and the dollar rose a little against most major currencies.
+
+The Dow Jones Industrial Average tumbled 39.55 points, to 2613.73, in active trading. Long-term Treasury bonds ended slightly higher. The dollar rose modestly against the mark and the yen, but soared against the pound following the resignation of Britain's chancellor of the Exchequer, Nigel Lawson.
+
+Analysts have complained that <TIMEX3 tid="t1" type="DATE" value="1989-Q3">third-quarter</TIMEX3> corporate earnings haven't been very good, but the effect hit home particularly hard <TIMEX3 tid="t2" type="DATE" value="1989-10-26">yesterday</TIMEX3>. Compaq Computer nose-dived $8.625 a share, to $100, and pulled other technology issues lower after reporting lower-than-expected earnings after the stock market closed <TIMEX3 tid="t3" type="DATE" value="1989-10-25-WXX-3">Wednesday</TIMEX3>. Later <TIMEX3 tid="t4" type="DATE" value="1989-10-26">yesterday</TIMEX3> the nation's major auto makers added to the gloom when they each reported their core auto operations were net losers in <TIMEX3 tid="t5" type="DATE" value="1989-Q3">the third quarter</TIMEX3>.
+
+The less-than-robust <TIMEX3 tid="t6" type="DATE" value="1989-Q3">third-quarter</TIMEX3> results came amid renewed concern about the volatility of stock prices and the role of computer-aided program trading. Taken together, the worries prompted a broad sell-off of stocks. The number of stocks on the New York Stock Exchange that fell in price <TIMEX3 tid="t7" type="DATE" value="1989-10-26">yesterday</TIMEX3> exceeded 1,000, a key measure of underlying sentiment among technical analysts.
+
+Although the government said the economy grew an estimated 2.5% in <TIMEX3 tid="t8" type="DATE" value="1989-Q3">the third quarter</TIMEX3>, in line with expectations, analysts are increasingly predicting much more sluggish growth -- and therefore more corporate earnings disappointments -- for <TIMEX3 tid="t9" type="DATE" value="1989-Q4">the fourth quarter</TIMEX3>.
+
+"There are a lot more downward revisions of earnings forecasts than upward revisions," said Abby Joseph Cohen, a market strategist at Drexel Burnham Lambert. "People are questioning corporate profits as a pillar of support for the equity market."
+
+The bond market was unmoved by the economic statistics. While bond investors would have preferred growth to be a little slower, they were cheered by inflation measures in the data that showed prices rising at a modest annual rate of 2.9%. That is another small encouragement for the Federal Reserve to lower interest rates in <TIMEX3 tid="t10" type="DURATION" value="PXW">coming weeks</TIMEX3>, they reasoned.
+
+In major market activity: Stock prices fell sharply in active trading. Volume on the New York Stock Exchange totaled 175.2 million shares. Declining issues on the Big Board outstripped gainers 1,141 to 406.
+
+Bond prices were barely higher. The Treasury's benchmark <TIMEX3 tid="t11" type="DURATION" value="P30Y">30-year</TIMEX3> rose fractionally. Yield on the issue was 7.88%.
+
+The dollar rose modestly against most major currencies. In late New York trading the dollar was at 1.8400 marks and 142.10 yen compared with 1.8353 marks and 141.52 yen <TIMEX3 tid="t12" type="DATE" value="1989-10-25-WXX-3">Wednesday</TIMEX3>. The dollar soared against the pound, which was at $1.5765 compared with $<TIMEX3 tid="t13" type="DATE" value="1989-10-25-WXX-3">1.6145 Wednesday</TIMEX3>.
+</TEXT>
+</TimeML>

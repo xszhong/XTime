@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>PRI19980121.2000.2591</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="19980121">19980121</TIMEX3></DCT>
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">Now</TIMEX3> for <TIMEX3 tid="t2" type="DATE" value="1998-01-21">today</TIMEX3>'s geography quiz.
+
+We're off in search of an ancient and exotic city.
+
+An officially sanctioned one, too. UNESCO declared it a protected site for its beauty and its historical significance.
+
+The city could have used some special protection in nineteen seventy-nine when the Soviet Union invaded Afghanistan. Most of the city's monuments were destroyed, including a magnificent tiled mosque, which dominated the skyline for <TIMEX3 tid="t3" type="DURATION" value="PXC">centuries</TIMEX3>.
+
+The people here are famous throughout central Asia for their skill in fashioning pottery and tile, glass too. Some families have kept their glass working secrets for <TIMEX3 tid="t4" type="DURATION" value="P2Y">more than two thousand years</TIMEX3>.
+
+Even though this city is in Afghanistan, most people here speak a dialect of the Persian language, and have long standing cultural ties with neighboring Iran.
+
+Think you got it? Well, frankly, I don't, but the answer is coming up in just <TIMEX3 tid="t5" type="DURATION" value="PTXM">a few minutes</TIMEX3>.
+</TEXT>
+</TimeML>

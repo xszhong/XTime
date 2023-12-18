@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>CNN19980213.2130.0155</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1998-02-13">1998-02-13</TIMEX3></DCT>
+<TEXT>
+President Clinton says he is committed to a possible strike against Iraq, despite objections from other countries. Steve Hurst has that.
+
+The US military buildup in the Persian gulf continues apace, more planes headed from the united states and senior officials say Iraq's president Saddam Hussein can expect punishing air strikes to continue well into <TIMEX3 tid="t1" type="DATE" value="FUTURE_REF">the future</TIMEX3> if he doesn't stop building biological and chemical weapons.
+
+Saddam will know by our actions and our warning that we will be prepared to act again if we have evidence he is trying to rebuild his weapons of mass destruction capabilities.
+
+In a bit of television diplomacy, Iraq's deputy foreign minister responded from Baghdad in <TIMEX3 tid="t2" type="DURATION" value="PT1H">less than one hour</TIMEX3>, saying Washington would break international law by attacking without UN approval.
+
+The united states is not authorized to use force before going to the council.
+
+President Clinton, meantime, glossed over stern warnings from Moscow on <TIMEX3 tid="t3" type="DATE" value="1998-02-12-WXX-4">Thursday</TIMEX3> that US air strikes against Iraq could do serious harm to relations with the Kremlin.
+
+We're trying to find a diplomatic solution. And I hope that, whatever happens <TIMEX3 tid="t4" type="DATE" value="1998-02-13">today</TIMEX3>, that our relationships with Russia will continue to be productive and constructive and strong, because that's very important to <TIMEX3 tid="t5" type="DATE" value="FUTURE_REF">the future</TIMEX3> of our peoples.
+
+One contrary view of the issue presented itself to the president as he arrived in Philadelphia later in <TIMEX3 tid="t6" type="DATE" value="1998-02-13">the day</TIMEX3>. Nevertheless, the president said Washington would use force if diplomacy fails to force Saddam Hussein to back down. The Russian foreign minister, meanwhile, sought to soften the harsh words of his military counterpart, saying on <TIMEX3 tid="t7" type="DATE" value="1998-02-13-WXX-5">Friday</TIMEX3> that Russia <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">now</TIMEX3> feels the US must hold off at least until UN secretary general Kofi Annan visits Baghdad in a last-ditch effort at diplomacy. Annan has no trip planned so far. Meanwhile, secretary of state Madeleine Albright, Berger and defense secretary William Cohen announced plans to travel to an unnamed city in the US heartland <TIMEX3 tid="t9" type="DATE" value="1998-02-W08">next week</TIMEX3>, to explain to the American people just why military force will be necessary if diplomacy fails. Steve Hurst, CNN, the state department.
+</TEXT>
+</TimeML>

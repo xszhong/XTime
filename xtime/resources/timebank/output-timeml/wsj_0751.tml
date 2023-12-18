@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0751</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-27">1989-10-27</TIMEX3></DCT>
+<TEXT>
+Dime Savings Bank of New York was cleared by the Federal Deposit Insurance Corp. to acquire Starpointe Savings Bank of Somerset, N.J., the banks said.
+
+Starpointe holders, who approved the plan <TIMEX3 tid="t1" type="DATE" value="1988-04">last April</TIMEX3>, will receive $21 in cash a share, or a total $63 million. The FDIC cleared the move <TIMEX3 tid="t2" type="DATE" value="1989-10-26">yesterday</TIMEX3>, and the banks must wait at least <TIMEX3 tid="t3" type="DATE" value="1989-03-28">30 days before</TIMEX3> closing the purchase. A closing date hasn't been set. The thrifts agreed to the transaction in <TIMEX3 tid="t4" type="DATE" value="1988-08">August 1988</TIMEX3>.
+</TEXT>
+</TimeML>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_52.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2008-09-17">2008-09-17</TIMEX3></DCT>
+<TEXT>
+
+Russian stock markets suspended amid market turmoil
+
+<TIMEX3 tid="t1" type="DATE" value="2008-09-17">September 17, 2008</TIMEX3>
+
+Trading on Russia's major stock markets has been suspended for <TIMEX3 tid="t2" type="DURATION" value="P1D">a second consecutive day</TIMEX3> due to the ongoing turmoil in the financial markets around the world.
+
+The suspension took place due to an order of the Russian government's Federal Service for the Financial Markets, which demanded the suspension.
+
+``It took too long for the money to get into the system, '' said Uralsib analyst Chris Weafer commenting on this decision.
+
+``They were afraid of panic selling so they stopped the market. ''
+
+</TEXT>
+</TimeML>

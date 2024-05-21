@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_1025</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-26">1989-10-26</TIMEX3></DCT>
+<TEXT>
+Sotheby's Holdings Inc., the parent of the auction house Sotheby's, said its net loss for the seasonally slow <TIMEX3 tid="t1" type="DATE" value="1989-Q3">third quarter</TIMEX3> narrowed from <TIMEX3 tid="t2" type="DATE" value="1988">a year earlier</TIMEX3> on a leap in operating revenue.
+
+The New York-based company reported a <TIMEX3 tid="t3" type="DATE" value="1989-Q3">third-quarter</TIMEX3> net loss of $5.1 million, or 10 cents a share, compared with a year-earlier net loss of $6.2 million, or 12 cents a share. Operating revenue surged 54% in the latest period to $42.9 million from $27.7 million.
+
+The company said 80% of its auction business is usually conducted in the <TIMEX3 tid="t4" type="SET" value="">second</TIMEX3> and <TIMEX3 tid="t5" type="SET" value="XXXX-Q4">fourth quarters</TIMEX3>, with <TIMEX3 tid="t6" type="DATE" value="">the current quarter</TIMEX3> having begun " extremely well."
+</TEXT>
+</TimeML>

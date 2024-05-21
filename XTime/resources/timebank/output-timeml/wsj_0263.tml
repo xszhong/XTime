@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0263</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-01">1989-11-01</TIMEX3></DCT>
+<TEXT>
+UNIFIRST Corp. declared a 2-for-1 stock split. The Wilmington, Mass., garment service company also boosted its <TIMEX3 tid="t1" type="SET" value="XXXX-QX">quarterly</TIMEX3> dividend 20% to three cents a share adjusted for the split. The dividend had been five cents a share. The split and <TIMEX3 tid="t2" type="SET" value="XXXX-QX">quarterly</TIMEX3> dividend will be payable <TIMEX3 tid="t3" type="DATE" value="1989-01-03">Jan. 3</TIMEX3> to stock of record <TIMEX3 tid="t4" type="DATE" value="1989-11-16">Nov. 16</TIMEX3>, the company said. The split will raise the number of shares outstanding to about 10.2 million. Separately, UniFirst reported that net income rose 21% to $3 million, or 29 cents a share adjusted for the split, for <TIMEX3 tid="t5" type="DATE" value="1989-Q4">the fourth quarter</TIMEX3> ended <TIMEX3 tid="t6" type="DATE" value="1989-08-26">Aug. 26</TIMEX3>. <TIMEX3 tid="t7" type="DATE" value="1988">A year earlier</TIMEX3> UniFirst earned $2.4 million, or 24 cents a share adjusted for the split. Sales rose to $52.4 million from $50.1 million.
+</TEXT>
+</TimeML>

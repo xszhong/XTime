@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_105.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2009-06-05">2009-06-05</TIMEX3></DCT>
+<TEXT>
+
+Penske Auto selected to buy General Motors' Saturn unit
+
+<TIMEX3 tid="t1" type="DATE" value="2009-06-05">June 05, 2009</TIMEX3>
+
+General Motors Corporation (GM ), an American automaker which has filed for bankruptcy protection, announced on <TIMEX3 tid="t2" type="DATE" value="2009-06-05">Friday</TIMEX3> that the Penske Automotive Group (PAG )was selected to purchase Saturn Corporation.
+
+The transaction should be completed in <TIMEX3 tid="t3" type="DATE" value="2009-10">October</TIMEX3>.
+
+The purchase includes rights to the Saturn brand, its five current models and its dealership network.
+
+Two models would be discontinued, the Sky and Astra.
+
+</TEXT>
+</TimeML>

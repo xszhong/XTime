@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_16.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2006-03-28">2006-03-28</TIMEX3></DCT>
+<TEXT>
+
+Beatles' Apple Corps sues Apple Computer
+
+<TIMEX3 tid="t1" type="DATE" value="2006-03-28">March 28, 2006</TIMEX3>
+
+The Beatles' Apple Corps has filed a lawsuit against computer and electronics maker Apple Computer in a London court <TIMEX3 tid="t2" type="DATE" value="2006-W13">this week</TIMEX3>, the third such lawsuit in a long running trademark dispute between the two companies.
+
+Apple Corps claims that Apple Computer's iTunes Music Store violates an agreement reached between the two companies in <TIMEX3 tid="t3" type="DATE" value="1991">1991</TIMEX3>, which barred Apple Computer from using the "Apple "brand in certain uses in the music business.
+
+The trial is set to begin on <TIMEX3 tid="t4" type="DATE" value="2006-03-29">Wednesday</TIMEX3> in the Royal Courts of Justice, located in central London.
+
+Presiding Judge Martin Mann has stated that he owns an iPod portable music player, which is made by Apple Computer and marketed alongside the iTunes Music Store.
+
+</TEXT>
+</TimeML>

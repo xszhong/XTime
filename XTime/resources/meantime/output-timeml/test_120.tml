@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_120.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2006-05-05">2006-05-05</TIMEX3></DCT>
+<TEXT>
+
+Australian government announces $52.5 million financial assistance package for Ford
+
+<TIMEX3 tid="t1" type="DATE" value="2006-05-05">May 05, 2006</TIMEX3>
+
+Australian Prime Minister John Howard and federal industry minister Ian MacDonald <TIMEX3 tid="t2" type="DATE" value="2006-05-05">today</TIMEX3> announced that the federal government would be providing Ford Australia with a AU$ 52.5 million (US$ 40.4 million )``financial assistance package'' .
+
+Additional assistance will also be provided by the Victorian state government.
+
+According to Mr Howard, the injection will secure Ford's manufacturing operations in Australia ``for the long term'' .
+
+From the package, AU$ 40 million will be used for the design and manufacture of Ford's next model Falcon and Territory vehicles, which will be built in Australia.
+
+</TEXT>
+</TimeML>

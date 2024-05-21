@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_57.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2008-10-27">2008-10-27</TIMEX3></DCT>
+<TEXT>
+
+Asian stock markets slide; Nikkei at lowest level since '82
+
+<TIMEX3 tid="t1" type="DATE" value="2008-10-27">October 27, 2008</TIMEX3>
+
+On <TIMEX3 tid="t2" type="DATE" value="2008-10-27">Monday</TIMEX3>, stock markets across Asia resumed their downward slide, and Japan's Nikkei stock index fell to lows not seen since <TIMEX3 tid="t3" type="DATE" value="1982-10">October 1982</TIMEX3> as the Japanese government's former measures to stop the credit and stock crisis have been seen by stockholders as not sufficient.
+
+Japan's prime minister, Taro Aso, spoke to government officials and asked them to make new tentative plans to save Japan from more damaged inflicted by the worldwide recession.
+
+For <TIMEX3 tid="t4" type="DATE" value="2008-10-27">the day</TIMEX3>, the Nikkei closed down 6.4 percent, or 486.18 points, to close at 7,162.90.
+
+The U.S. dollar rose against the yen after six straight <TIMEX3 tid="t5" type="DURATION" value="PXD">days</TIMEX3> of losses, trading at 92.27 yen to the dollar.
+
+</TEXT>
+</TimeML>

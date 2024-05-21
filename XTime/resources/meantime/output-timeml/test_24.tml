@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_24.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2008-04-09">2008-04-09</TIMEX3></DCT>
+<TEXT>
+
+Apple's iTunes replaces Wal-Mart as No. 1 U.S. music seller
+
+<TIMEX3 tid="t1" type="DATE" value="2008-04-09">April 9, 2008</TIMEX3>
+
+<TIMEX3 tid="t2" type="DURATION" value="P5Y">Five years</TIMEX3> after its launch, Apple Computer's iTunes downloadable music service in <TIMEX3 tid="t3" type="DATE" value="2008-02">February</TIMEX3> passed Wal-Mart to become the No. 1 music seller in the United States, according to figures released <TIMEX3 tid="t4" type="DATE" value="2008-04-03">April 3</TIMEX3> by NPD Group, a market research firm.
+
+The firm said more than 4 billion songs had been downloaded from the iTunes store since its launch in <TIMEX3 tid="t5" type="DATE" value="2003">2003</TIMEX3> and that as of <TIMEX3 tid="t6" type="DATE" value="2008-02">February</TIMEX3>, the iTunes store accounts for 70% of all digital music sales.
+
+NPD said according to those figures, Apple's iTunes store passes U.S. electronics retailer Best Buy for the No. 2 U.S. music retailer in <TIMEX3 tid="t7" type="DATE" value="2007">2007</TIMEX3>.
+
+According to <TIMEX3 tid="t8" type="DATE" value="2008-04-01">an April 2nd</TIMEX3> report in Ars Technica, an internal memo at Apple showed the company passed Wal-Mart as the top U.S. music seller Wal-Mart at <TIMEX3 tid="t9" type="DATE" value="2008">the beginning of the year</TIMEX3>.
+
+</TEXT>
+</TimeML>

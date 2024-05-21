@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0662</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-30">1989-10-30</TIMEX3></DCT>
+<TEXT>
+Jayark Corp. agreed to pay $4 million in cash, $2 million of 12% convertible debentures, and 1.6 million common shares to acquire closely held Kofcoh Imports Inc.
+
+In over-the-counter trading <TIMEX3 tid="t1" type="DATE" value="1989-11-03-WXX-5">Friday</TIMEX3>, Jayark was quoted at 87.5 cents bid, down 15.625 cents. At the market price, the transaction has a total indicated value of $7.4 million.
+
+Kofcoh is a New York holding company for Rosalco Inc., which imports furniture and other items. David L. Koffman, president and chief executive officer of Jayark, holds about 40% of Kofcoh, Jayark said.
+
+Jayark, New York, distributes and rents audio-visual equipment and prints promotional ads for retailers. In <TIMEX3 tid="t2" type="DATE" value="1989-Q4">the quarter</TIMEX3> ended <TIMEX3 tid="t3" type="DATE" value="1989-07-31">July 31</TIMEX3>, Jayark had an average of 5.6 million shares outstanding.
+
+The transaction is subject to approval by a panel of disinterested directors, the company said, adding that shareholder approval isn't needed.
+</TEXT>
+</TimeML>

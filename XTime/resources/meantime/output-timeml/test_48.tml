@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_48.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2009-08-21">2009-08-21</TIMEX3></DCT>
+<TEXT>
+
+Stock markets worldwide rise on hopes of US economic recovery
+
+<TIMEX3 tid="t1" type="DATE" value="2009-08-21">August 21, 2009</TIMEX3>
+
+Stock indexes worldwide rose on <TIMEX3 tid="t2" type="DATE" value="2009-08-21">Friday</TIMEX3>, after US bank chief Ben Bernanke said that the US economy was starting to recover from the recession.
+
+Addressing a conference in Wyoming, the bank chief said that ``the prospects for a return to growth in the near term appear good. ''
+
+He added, however, that ``the economic recovery is likely to be relatively slow at first, with unemployment declining only gradually from high levels. ''
+
+The Dow Jones Industrial Average gained 155.91 points, or 1.67%, to <TIMEX3 tid="t3" type="DATE" value="2009-08-21">end the day</TIMEX3> at 9505.96.
+
+</TEXT>
+</TimeML>

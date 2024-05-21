@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_88.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2007-12-20">2007-12-20</TIMEX3></DCT>
+<TEXT>
+
+Indonesia's transport minister tells airlines not to buy European aircraft due to EU ban
+
+<TIMEX3 tid="t1" type="DATE" value="2007-12-20">December 20, 2007</TIMEX3>
+
+Jusman Syafii Djamal, minister of transport for Indonesia, has recommended that local airlines should not purchase aircraft from European manufacturers, such as Airbus.
+
+It is a direct response to the decision of the European Union (EU )to add all 51 of Indonesia's air carriers to the list of air carriers banned in the EU.
+
+The EU made the decision to ban the Indonesian air traffic due to a string of accidents in the country, including two major disasters <TIMEX3 tid="t2" type="DATE" value="2007">this year</TIMEX3> - the losses of Adam Air Flight 574 and Garuda Indonesia Flight 200, which killed 102 and 21 people respectively.
+
+``We do not need to buy aircraft from Europe as long as the flying ban stays unrevoked, '' Detik.com quoted Djamal as saying, although Xinhua translated the quote as :``As long as the ban is still in place, it is better we do not buy aircraft ]from Europe. ''
+
+</TEXT>
+</TimeML>

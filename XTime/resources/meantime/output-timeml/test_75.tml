@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_75.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2007-09-01">2007-09-01</TIMEX3></DCT>
+<TEXT>
+
+Airbus A380 test flight delayed after accident
+
+<TIMEX3 tid="t1" type="DATE" value="2007-09-01">September 01, 2007</TIMEX3>
+
+A test flight of the new Airbus A380 superjumbo, the largest passenger jet in the world, was delayed <TIMEX3 tid="t2" type="DATE" value="2007-09-01">today</TIMEX3> after a superficial accident at Suvarnabhumi Airport, which serves Bangkok, Thailand.
+
+The minor accident occurred during push back, as the aircraft was leaving a parking space before it was due to fly to Chiang Mai International Airport.
+
+As the jet was being pushed back by a Thai Airways International tug operator, the left winglet struck the side of the hangar, and was crumpled against it.
+
+The winglets, designed to improve fuel efficiency, are non-vital parts.
+
+</TEXT>
+</TimeML>

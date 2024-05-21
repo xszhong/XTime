@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_36.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2008-09-18">2008-09-18</TIMEX3></DCT>
+<TEXT>
+
+Russian markets to remain closed until <TIMEX3 tid="t1" type="DATE" value="2008-09-19">Friday</TIMEX3>
+
+<TIMEX3 tid="t2" type="DATE" value="2008-09-18">September 18, 2008</TIMEX3>
+
+The Russian government has continued to hold all stock markets closed until <TIMEX3 tid="t3" type="DATE" value="2008-09-19">Friday</TIMEX3>, including the MICEX and RTS exchanges.
+
+Facing its worst financial crisis since <TIMEX3 tid="t4" type="DATE" value="1989">1989</TIMEX3>, the government is fighting to stem off a crash and restore consumer confidence.
+
+President Dmitry Medvedev went on national television to appease the public.
+
+``There is no more important task for Russian authorities than stability of our financial system under the <TIMEX3 tid="t5" type="DURATION" value="PRESENT_REF">current</TIMEX3> circumstances.
+
+</TEXT>
+</TimeML>

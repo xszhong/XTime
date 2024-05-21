@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_103.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2006-01-23">2006-01-23</TIMEX3></DCT>
+<TEXT>
+
+Ford Motor Company cutting 30,000 jobs by <TIMEX3 tid="t1" type="DATE" value="2012">2012</TIMEX3>
+
+<TIMEX3 tid="t2" type="DATE" value="2006-01-23">January 23, 2006</TIMEX3>
+
+The Ford Motor Company, the second-largest car manufacturer in America, will cut 30,000 jobs and 14 plants as part of a restructuring plan to relieve Ford after a US$ 1.6 billion loss <TIMEX3 tid="t3" type="DATE" value="2005">last year</TIMEX3> in North American sales.
+
+The plan, called ``Way Forward'' , the brainchild of Ford's Chief Executive Officer, William Clay Ford Jr., is to end Ford's North American losses by <TIMEX3 tid="t4" type="DATE" value="2008">2008</TIMEX3>.
+
+To accomplish this 30,000 jobs which make up 20 to 25 percent of Ford's North American workforce of 122,000 people will be cut and 14 plants will be closed in order to bring Ford's production capacity in line with demand.
+
+By <TIMEX3 tid="t5" type="DATE" value="2006">the end of this year</TIMEX3>, the Atlanta and St. Louis plants will be closed.
+
+</TEXT>
+</TimeML>

@@ -1,0 +1,396 @@
+January('s)?|Jan\.?('s)?	[MONTH]	01
+February('s)?|Feb\.?('s)?	[MONTH]	02
+March('s)?|Mar\.?('s)?	[MONTH]	03
+April('s)?|Apr\.?('s)?	[MONTH]	04
+May('s)?	[MONTH]	05
+June('s)?|Jun\.?('s)?	[MONTH]	06
+July('s)?|Jul\.?('s)?	[MONTH]	07
+August('s)?|Aug\.?('s)?	[MONTH]	08
+September('s)?|Sept?\.?('s)?	[MONTH]	09
+October('s)?|Oct\.?('s)?	[MONTH]	10
+November('s)?|Nov\.?('s)?	[MONTH]	11
+December('s)?|Dec\.?('s)?	[MONTH]	12
+
+
+Januarys'?|Jans\.?'?	[DISCRETE_PERIOD]	01
+Februarys'?|Febs\.?'?	[DISCRETE_PERIOD]	02
+Marchs'?|Mars\.?'?	[DISCRETE_PERIOD]	03
+Aprils'?|Aprs\.?'?	[DISCRETE_PERIOD]	04
+Mays'?	[DISCRETE_PERIOD]	05
+Junes'?|Juns\.?'?	[DISCRETE_PERIOD]	06
+Julys'?|Juls\.?'?	[DISCRETE_PERIOD]	07
+Augusts'?|Augs\.?'?	[DISCRETE_PERIOD]	08
+Septembers'?|Sept?s?\.?'?	[DISCRETE_PERIOD]	09
+Octobers'?|Octs\.?'?	[DISCRETE_PERIOD]	10
+Novembers'?|Novs\.?'?	[DISCRETE_PERIOD]	11
+Decembers'?|Decs\.?'?	[DISCRETE_PERIOD]	12
+
+monday('s)?|mon\.?	[WEEK]	1
+tuesday('s)?|tues\.?	[WEEK]	2
+wednesday('s)?|wed\.?	[WEEK]	3
+thursday('s)?|thurs?\.?	[WEEK]	4
+friday('s)?|fri\.?	[WEEK]	5
+saturday('s)?|sat\.?	[WEEK]	6
+sunday('s)?|sun\.?	[WEEK]	7
+
+mondays'?|mons\.?	[DISCRETE_PERIOD]	WXX-1
+tuesdays'?|tues\.?	[DISCRETE_PERIOD]	WXX-2
+wednesdays'?|weds\.?	[DISCRETE_PERIOD]	WXX-3
+thursdays'?|thurs\.?	[DISCRETE_PERIOD]	WXX-4
+fridays'?|fris\.?	[DISCRETE_PERIOD]	WXX-5
+saturdays'?|sats\.?	[DISCRETE_PERIOD]	WXX-6
+sundays'?|suns\.?	[DISCRETE_PERIOD]	WXX-7
+
+\d+	[NUMBER]
+
+zero	[NUMBER]	0
+one	[NUMBER]	1
+two	[NUMBER]	2
+three	[NUMBER]	3
+four	[NUMBER]	4
+five	[NUMBER]	5
+six	[NUMBER]	6
+seven	[NUMBER]	7
+eight	[NUMBER]	8
+nine	[NUMBER]	9
+ten	[NUMBER]	10
+eleven	[NUMBER]	11
+twelve	[NUMBER]	12
+thirteen	[NUMBER]	13
+fourteen	[NUMBER]	14
+fifteen	[NUMBER]	15
+sixteen	[NUMBER]	16
+seventeen	[NUMBER]	17
+eighteen	[NUMBER]	18
+nineteen	[NUMBER]	19
+twenty	[NUMBER]	20
+thirty	[NUMBER]	30
+forty	[NUMBER]	40
+fifty	[NUMBER]	50
+sixty	[NUMBER]	60
+seventy	[NUMBER]	70
+eighty	[NUMBER]	80
+ninety	[NUMBER]	90
+tens	[NUMBER]	
+hundreds?	[NUMBER]	
+thousands?	[NUMBER]	
+
+twenty-one	[NUMBER]	21
+twenty-two	[NUMBER]	22
+twenty-three	[NUMBER]	23
+twenty-four	[NUMBER]	24
+twenty-five	[NUMBER]	25
+twenty-six	[NUMBER]	26
+twenty-seven	[NUMBER]	27
+twenty-eight	[NUMBER]	28
+twenty-nine	[NUMBER]	29
+thirty-one	[NUMBER]	31
+thirty-two	[NUMBER]	32
+thirty-three	[NUMBER]	33
+thirty-four	[NUMBER]	34
+thirty-five	[NUMBER]	35
+thirty-six	[NUMBER]	36
+thirty-seven	[NUMBER]	37
+thirty-eight	[NUMBER]	38
+thirty-nine	[NUMBER]	39
+forty-one	[NUMBER]	41
+forty-two	[NUMBER]	42
+forty-three	[NUMBER]	43
+forty-four	[NUMBER]	44
+forty-five	[NUMBER]	45
+forty-six	[NUMBER]	46
+forty-seven	[NUMBER]	47
+forty-eight	[NUMBER]	48
+forty-nine	[NUMBER]	49
+fifty-one	[NUMBER]	51
+fifty-two	[NUMBER]	52
+fifty-three	[NUMBER]	53
+fifty-four	[NUMBER]	54
+fifty-five	[NUMBER]	55
+fifty-six	[NUMBER]	56
+fifty-seven	[NUMBER]	57
+fifty-eight	[NUMBER]	58
+fifty-nine	[NUMBER]	59
+sixty-one	[NUMBER]	61
+sixty-two	[NUMBER]	62
+sixty-three	[NUMBER]	63
+sixty-four	[NUMBER]	64
+sixty-five	[NUMBER]	65
+sixty-six	[NUMBER]	66
+sixty-seven	[NUMBER]	67
+sixty-eight	[NUMBER]	68
+sixty-nine	[NUMBER]	69
+seventy-one	[NUMBER]	71
+seventy-two	[NUMBER]	72
+seventy-three	[NUMBER]	73
+seventy-four	[NUMBER]	74
+seventy-five	[NUMBER]	75
+seventy-six	[NUMBER]	76
+seventy-seven	[NUMBER]	77
+seventy-eight	[NUMBER]	78
+seventy-nine	[NUMBER]	79
+eighty-one	[NUMBER]	81
+eighty-two	[NUMBER]	82
+eighty-three	[NUMBER]	83
+eighty-four	[NUMBER]	84
+eighty-five	[NUMBER]	85
+eighty-six	[NUMBER]	86
+eighty-seven	[NUMBER]	87
+eighty-eight	[NUMBER]	88
+eighty-nine	[NUMBER]	89
+ninety-one	[NUMBER]	91
+ninety-two	[NUMBER]	92
+ninety-three	[NUMBER]	93
+ninety-four	[NUMBER]	94
+ninety-five	[NUMBER]	95
+ninety-six	[NUMBER]	96
+ninety-seven	[NUMBER]	97
+ninety-eight	[NUMBER]	98
+ninety-nine	[NUMBER]	99
+
+zeroth	[ORDINAL]	0
+first|1st	[ORDINAL]	1
+second|2nd	[ORDINAL]	2
+third|3rd	[ORDINAL]	3
+fourth|4th	[ORDINAL]	4
+fifth|5th	[ORDINAL]	5
+sixth|6th	[ORDINAL]	6
+seventh|7th	[ORDINAL]	7
+eighth|8th	[ORDINAL]	8
+ninth|9th	[ORDINAL]	9
+tenth|10th	[ORDINAL]	10
+eleventh|11th	[ORDINAL]	11
+twelfth|12th	[ORDINAL]	12
+thirteenth|13th	[ORDINAL]	13
+fourteenth|14th	[ORDINAL]	14
+fifteenth|15th	[ORDINAL]	15
+sixteenth|16th	[ORDINAL]	16
+seventeenth|17th	[ORDINAL]	17
+eighteenth|18th	[ORDINAL]	18
+nineteenth|19th	[ORDINAL]	19
+twentieth|20th	[ORDINAL]	20
+twenty-first|21st	[ORDINAL]	21
+twenty-second|22nd	[ORDINAL]	22
+twenty-third|23rd	[ORDINAL]	23
+twenty-fourth|24th	[ORDINAL]	24
+twenty-fifth|25th	[ORDINAL]	25
+twenty-sixth|26th	[ORDINAL]	26
+twenty-seventh|27th	[ORDINAL]	27
+twenty-eighth|28th	[ORDINAL]	28
+twenty-ninth|29th	[ORDINAL]	29
+thirty-first|31st	[ORDINAL]	31
+thirty-second|32nd	[ORDINAL]	32
+thirty-third|33rd	[ORDINAL]	33
+thirty-fourth|34th	[ORDINAL]	34
+thirty-fifth|35th	[ORDINAL]	35
+thirty-sixth|36th	[ORDINAL]	36
+thirty-seventh|37th	[ORDINAL]	37
+thirty-eighth|38th	[ORDINAL]	38
+thirty-ninth|39th	[ORDINAL]	39
+forty-first|41st	[ORDINAL]	41
+forty-second|42nd	[ORDINAL]	42
+forty-third|43rd	[ORDINAL]	43
+forty-fourth|44th	[ORDINAL]	44
+forty-fifth|45th	[ORDINAL]	45
+forty-sixth|46th	[ORDINAL]	46
+forty-seventh|47th	[ORDINAL]	47
+forty-eighth|48th	[ORDINAL]	48
+forty-ninth|49th	[ORDINAL]	49
+fifty-first|51st	[ORDINAL]	51
+fifty-second|52nd	[ORDINAL]	52
+fifty-third|53rd	[ORDINAL]	53
+fifty-fourth|54th	[ORDINAL]	54
+fifty-fifth|55th	[ORDINAL]	55
+fifty-sixth|56th	[ORDINAL]	56
+fifty-seventh|57th	[ORDINAL]	57
+fifty-eighth|58th	[ORDINAL]	58
+fifty-ninth|59th	[ORDINAL]	59
+sixty-first|61st	[ORDINAL]	61
+sixty-second|62nd	[ORDINAL]	62
+sixty-third|63rd	[ORDINAL]	63
+sixty-fourth|64th	[ORDINAL]	64
+sixty-fifth|65th	[ORDINAL]	65
+sixty-sixth|66th	[ORDINAL]	66
+sixty-seventh|67th	[ORDINAL]	67
+sixty-eighth|68th	[ORDINAL]	68
+sixty-ninth|69th	[ORDINAL]	69
+seventy-first|71st	[ORDINAL]	71
+seventy-second|72nd	[ORDINAL]	72
+seventy-third|73rd	[ORDINAL]	73
+seventy-fourth|74th	[ORDINAL]	74
+seventy-fifth|75th	[ORDINAL]	75
+seventy-sixth|76th	[ORDINAL]	76
+seventy-seventh|77th	[ORDINAL]	77
+seventy-eighth|78th	[ORDINAL]	78
+seventy-ninth|79th	[ORDINAL]	79
+eighty-first|81st	[ORDINAL]	81
+eighty-second|82nd	[ORDINAL]	82
+eighty-third|83rd	[ORDINAL]	83
+eighty-fourth|84th	[ORDINAL]	84
+eighty-fifth|85th	[ORDINAL]	85
+eighty-sixth|86th	[ORDINAL]	86
+eighty-seventh|87th	[ORDINAL]	87
+eighty-eighth|88th	[ORDINAL]	88
+eighty-ninth|89th	[ORDINAL]	89
+ninety-first|91st	[ORDINAL]	91
+ninety-second|92nd	[ORDINAL]	92
+ninety-third|93rd	[ORDINAL]	93
+ninety-fourth|94th	[ORDINAL]	94
+ninety-fifth|95th	[ORDINAL]	95
+ninety-sixth|96th	[ORDINAL]	96
+ninety-seventh|97th	[ORDINAL]	97
+ninety-eighth|98th	[ORDINAL]	98
+ninety-ninth|99th	[ORDINAL]	99
+100+th	[ORDINAL]	
+hundredth	[ORDINAL]	100
+thousandth	[ORDINAL]	1000	
+
+
+a|an	[INARTICLE]	1
+
+
+(19)?00s	[DECADE]	190
+(19)?10s	[DECADE]	191
+(19)?20s|twenties	[DECADE]	192
+(19)?30s|thirties	[DECADE]	193
+(19)?40s|forties	[DECADE]	194
+(19)?50s|fifties	[DECADE]	195
+(19)?60s|sixties	[DECADE]	196
+(19)?70s|seventies	[DECADE]	197
+(19)?80s|eighties	[DECADE]	198
+(19)?90s|nineties	[DECADE]	199
+
+decade	[CONTINUOUS_TIMEUNIT]	DE
+year|yr	[CONTINUOUS_TIMEUNIT]	Y
+quarter	[CONTINUOUS_TIMEUNIT]	Q
+month|mo	[CONTINUOUS_TIMEUNIT]	M
+day	[CONTINUOUS_TIMEUNIT]	D
+hour|hr	[CONTINUOUS_TIMEUNIT]	TH
+minute|min	[CONTINUOUS_TIMEUNIT]	TM
+second|sec	[CONTINUOUS_TIMEUNIT]	TS
+millisecond|millisec	[CONTINUOUS_TIMEUNIT]
+week|wk	[CONTINUOUS_TIMEUNIT]	W
+fortnight	[CONTINUOUS_TIMEUNIT]	2W
+century	[CONTINUOUS_TIMEUNIT]	C
+millennia|millennium|millenia|millenium	[CONTINUOUS_TIMEUNIT]
+weekday|wkday	[CONTINUOUS_TIMEUNIT]	WXX
+
+weekend|wkend	[DISCRETE_TIMEUNIT]	WE
+
+decades	[CONTINUOUS_PERIOD]	DE
+years|yrs	[CONTINUOUS_PERIOD]	Y
+quarters	[CONTINUOUS_PERIOD]	Q
+months|mos	[CONTINUOUS_PERIOD]	M
+days	[CONTINUOUS_PERIOD]	D
+hours|hrs	[CONTINUOUS_PERIOD]	TH
+minutes|mins	[CONTINUOUS_PERIOD]	TM
+seconds|secs	[CONTINUOUS_PERIOD]	TS
+milliseconds|millisecs	[CONTINUOUS_PERIOD]	
+weeks|wks	[CONTINUOUS_PERIOD]	W
+fortnights	[CONTINUOUS_PERIOD]	W
+centuries	[CONTINUOUS_PERIOD]	C
+millenniums|milleniums	[CONTINUOUS_PERIOD]
+weekdays|wkdays	[CONTINUOUS_PERIOD]	D
+
+weekends|wkends	[DISCRETE_PERIOD]	WE	
+
+
+centennially	[PERIODICAL]	XX
+yearly	[PERIODICAL]	XXXX
+annually	[PERIODICAL]	XXXX
+hourly	[PERIODICAL]	XXXX-XX-XXTXX
+nightly	[PERIODICAL]	XXXX-XX-XXTNI
+daily	[PERIODICAL]	XXXX-XX-XX
+weekly	[PERIODICAL]	XXXX-WXX
+monthly	[PERIODICAL]	XXXX-XX
+quarterly	[PERIODICAL]	XXXX-QX
+
+
+morning('?s)?	[DAY_TIME]	MO
+afternoon('?s)?	[DAY_TIME]	AF
+evening('?s)?	[DAY_TIME]	EV
+dusk('?s)?	[DAY_TIME]	
+twilight('?s)?	[DAY_TIME]	
+dawn('?s)?	[DAY_TIME]	
+daybreak('?s)?	[DAY_TIME]	
+sunrise('?s)?	[DAY_TIME]	
+sunup('?s)?	[DAY_TIME]	
+sundown('?s)?	[DAY_TIME]	
+midday('?s)?	[DAY_TIME]	
+noon('?s)?	[DAY_TIME]	12:00
+midnight('?s)?	[DAY_TIME]	00:00
+teatime('?s)?	[DAY_TIME]	
+lunchtime('?s)?	[DAY_TIME]	
+dinnertime('?s)?	[DAY_TIME]	
+suppertime('?s)?	[DAY_TIME]	
+daylight('?s)?	[DAY_TIME]	DT
+daybreak('?s)?	[DAY_TIME]	
+daytime('?s)?	[DAY_TIME]	
+nighttime('?s)?	[DAY_TIME]	NI
+night('?s)?|nite('?s)?|overnight('?s)?|tonight('?s)?|tonite('?s)?	[DAY_TIME]	NI
+
+spring	[SEASON]	SP
+summer	[SEASON]	SU
+fall|autumn	[SEASON]	FA	
+winter	[SEASON]	WI
+
+springs	[DISCRETE_PERIOD]	SP
+summers	[DISCRETE_PERIOD]	SU
+falls|autumns	[DISCRETE_PERIOD]	FA	
+winters	[DISCRETE_PERIOD]	WI
+quarters	[DISCRETE_PERIOD]	Q
+
+
+now|currently	[TIMELINE]	PRESENT_REF
+recently|past|previously	[TIMELINE]	PAST_REF
+future	[TIMELINE]	FUTURE_REF
+
+present	[TIMELINE]	PRESENT_REF
+moment	[TIMELINE]	PRESENT_REF
+medieval	[TIMELINE]
+yesterday('s)?	[TIMELINE]	PAST_REF
+today('s)?	[TIMELINE]	PRESENT_REF
+tdy('s)?	[TIMELINE]	PRESENT_REF
+tomorrow('s)?	[TIMELINE]	FUTURE_REF
+tmr('s)?	[TIMELINE]	FUTURE_REF
+
+
+latter|coming|upcoming|future|near(ly)?	[PREFIX_COMMON]	FUTURE_REF
+current	[PREFIX_COMMON]	PRESENT_REF
+past|recent	[PREFIX_COMMON]	PAST_REF
+
+the|this|that|initial|universal|mid(dle)?|final|late(st)?|current|ides|early|other|alternate|alternating|another|about|around|almost|of|more|less|than|near(ly)?|right|whole|start|beginning|end	[PREFIX_COMMON]
+
+these|those|some|few|several|couple	[PREFIX_QUANTITATIVE]	X
+half	[PREFIX_QUANTITATIVE]	1/2
+
+next|nxt|following|consecutive|after	[PREFIX_OPERATE]	+
+previous|last	[PREFIX_OPERATE]	-
+
+each|every	[PREFIX_FREQUENT]
+
+ago|earlier|before	[SUFFIX_OPERATE]	-
+later	[SUFFIX_OPERATE]	+
+old	[SUFFIX_DURA]
+
+new year('s)? eve	[HOLIDAY]	12-31
+new year('s)?( day)?	[HOLIDAY]	01-01
+inauguration day	[HOLIDAY]
+groundhog day	[HOLIDAY]
+(st.?|saint)? valentine('s)? day	[HOLIDAY]
+april fools( day)?	[HOLIDAY]	04-01
+cinco de mayo	[HOLIDAY]
+halloween	[HOLIDAY]	10-31
+(x-?mas|christmas) eve	[HOLIDAY]	12-24
+(x-?mas|christmas)( day)?	[HOLIDAY]	12-25
+martin luther king day|mlk day	[HOLIDAY]
+memorial day	[HOLIDAY]
+mother('s)? day	[HOLIDAY]
+father('s) day	[HOLIDAY]
+labou?r day	[HOLIDAY]	05-01
+columbus day	[HOLIDAY]
+thanksgiving	[HOLIDAY]	11-25
+easter( day|sunday)?	[HOLIDAY]	04-17
+clean monday	[HOLIDAY]
+good friday	[HOLIDAY]
+ash wednesday	[HOLIDAY]

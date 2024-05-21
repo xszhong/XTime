@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_85.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2007-10-15">2007-10-15</TIMEX3></DCT>
+<TEXT>
+
+First Airbus A380 delivered
+
+<TIMEX3 tid="t1" type="DATE" value="2007-10-15">October 15, 2007</TIMEX3>
+
+The first A380 superjumbo, made by Airbus, was delivered <TIMEX3 tid="t2" type="DATE" value="2007-10-15">today</TIMEX3> to Singapore Airlines (SIA )<TIMEX3 tid="t3" type="DURATION" value="P18M">18 months</TIMEX3> behind schedule.
+
+After the plane was delivered in Singapore, it was flown to Toulouse, France for the ceremony of about 500 guests.
+
+The plane is built with four Rolls-Royce Trent 900 engines.
+
+The first flight will take off for a ``special charity-flight'' from Singapore and land in Sydney on <TIMEX3 tid="t4" type="DATE" value="2007-10-25">October 25</TIMEX3>.
+
+</TEXT>
+</TimeML>

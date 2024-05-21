@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_3.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2010-07-17">2010-07-17</TIMEX3></DCT>
+<TEXT>
+
+Apple to give free cases, refunds to iPhone 4 owners
+
+<TIMEX3 tid="t1" type="DATE" value="2010-07-17">July 17, 2010</TIMEX3>
+
+Apple Inc. announced <TIMEX3 tid="t2" type="DATE" value="2010-07-16">Friday</TIMEX3> that it will give owners of its new iPhone 4 a free case in response to mounting concerns over the device's antenna placement.
+
+The iPhone 4 antenna is actually a metal strip that wraps around the side of the device, which has caused dropped calls when held in a certain way.
+
+The announcement came in a rare press conference held by Apple on <TIMEX3 tid="t3" type="TIME" value="2010-07-16TMO">Friday morning</TIMEX3>.
+
+During the event, company CEO Steve Jobs attempted to address reports by both consumers and the media of signal reception issues relating to the positioning of the phone's antenna.
+
+</TEXT>
+</TimeML>

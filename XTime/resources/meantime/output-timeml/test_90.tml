@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_90.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2005-06-13">2005-06-13</TIMEX3></DCT>
+<TEXT>
+
+Ryanair exercises options on five Boeing 737s
+
+<TIMEX3 tid="t1" type="DATE" value="2005-06-13">June 13, 2005</TIMEX3>
+
+Irish low cost airline, Ryanair, announced <TIMEX3 tid="t2" type="DATE" value="2005-06-13">today</TIMEX3> that it is exercising its options with Boeing to purchase five new 737 aircraft.
+
+This brings Ryanair's total number of outstanding orders with the US manufacturer to 230.
+
+The new planes, which come from the 737-800 range, will be fitted with blended winglets to boost fuel efficiency by as much as 3%.
+
+Ryanair CEO, Michael O' Leary, justified his choice of Boeing by saying, ``The Boeing 737-800 has the best technical reliability and ensures that Ryanair is the number one on-time major airline in Europe'' ...``In addition, it has the lowest unit operating cost.
+
+</TEXT>
+</TimeML>

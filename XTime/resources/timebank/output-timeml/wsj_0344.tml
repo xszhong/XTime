@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0344</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-01">1989-11-01</TIMEX3></DCT>
+<TEXT>
+Price Stern Sloan Inc. said it hired an investment banking firm to assist in evaluating restructuring or merger alternatives and reported a net loss of $8.1 million, or $2.14 a share, for <TIMEX3 tid="t1" type="DATE" value="1989-Q3">the third quarter</TIMEX3> ended <TIMEX3 tid="t2" type="DATE" value="1989-09-30">Sept. 30</TIMEX3>.
+
+These results compare with net income of $1.8 million, or 44 cents a share, for the corresponding period <TIMEX3 tid="t3" type="DATE" value="1988">last year</TIMEX3>. <TIMEX3 tid="t4" type="DATE" value="1989-Q3">This quarter</TIMEX3>'s loss includes pretax charges of $4.9 million on the proposed discontinuation of the company's troubled British subsidiary, and $3.7 million of other write-offs the company said were non-recurring and principally related to inventory, publishing advances and pre-publication costs. The publishing concern said it retained the investment banking firm of Donaldson, Lufkin amp Jenrette Securities Inc. to act as its financial adviser, assisting in the evaluation of various financial and strategic alternatives, including debt refinancing, raising capital, recapitalization, a merger or sale of the company.
+
+The company also retained attorney Martin P. Levin, a director of the company and former head of the Times-Mirror Publishing Group, as an adviser.
+
+Net sales for <TIMEX3 tid="t5" type="DATE" value="1989">this year</TIMEX3>'s <TIMEX3 tid="t6" type="DATE" value="1989-Q3">third quarter</TIMEX3> were $14 million, down from $21.4 million <TIMEX3 tid="t7" type="DATE" value="1988">last year</TIMEX3>. The company attributed the decrease in part to the exclusion of the company's British sales from <TIMEX3 tid="t8" type="DATE" value="1989">the current year</TIMEX3>'s figures as a result of the subsidiary's status as a proposed discontinued operation and, in part, to lower sales in certain key foreign and domestic accounts. U.K. sales for <TIMEX3 tid="t9" type="DATE" value="1988">last year</TIMEX3>'s <TIMEX3 tid="t10" type="DATE" value="">quarter</TIMEX3> were about $3 million.
+</TEXT>
+</TimeML>

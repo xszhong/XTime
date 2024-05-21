@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_14.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2007-02-06">2007-02-06</TIMEX3></DCT>
+<TEXT>
+
+Apple Inc., Apple Corps resolve trademark dispute
+
+<TIMEX3 tid="t1" type="DATE" value="2007-02-06">February 6, 2007</TIMEX3>
+
+Apple Inc. announced <TIMEX3 tid="t2" type="DATE" value="2007-02-05">Monday</TIMEX3> it has settled its <TIMEX3 tid="t3" type="DURATION" value="PXY">decades-long</TIMEX3> trademark dispute with the Beatles' record company, Apple Corps.
+
+Under this new agreement, Apple Inc. will own all Apple trademarks and will license some to Apple Corps, and will continue to use its name and logo on its iTunes music service.
+
+This new settlement replaces the <TIMEX3 tid="t4" type="DATE" value="1991">1991</TIMEX3> agreement between the two companies, which defined the context in which the two companies could use the Apple trademark.
+
+"We love the Beatles, and it has been painful being at odds with them over these trademarks, "said Apple Inc. CEO Steve Jobs.
+
+</TEXT>
+</TimeML>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_77.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2009-07-30">2009-07-30</TIMEX3></DCT>
+<TEXT>
+
+Airbus offers funding to search for black boxes from Air France disaster
+
+<TIMEX3 tid="t1" type="DATE" value="2009-07-30">July 30, 2009</TIMEX3>
+
+Airbus have announced that they will be willing to contribute between $12 million and $20 million (about US$ 16 million to $28 million )to fund an extended search for the black boxes from Air France Flight 447.
+
+The Airbus A330 jetliner crashed into the Atlantic Ocean in <TIMEX3 tid="t2" type="DATE" value="2009-06">June</TIMEX3>, killing all 228 people on board.
+
+Chief executive Thomas Enders said in a statement, ``We want to know what happened, as improving air safety is our top priority.
+
+We are fully committed to support the extension of the search with a significant contribution. ''
+
+</TEXT>
+</TimeML>

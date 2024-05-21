@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_22.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2005-06-06">2005-06-06</TIMEX3></DCT>
+<TEXT>
+
+Apple Computer CEO Steve Jobs gives opening keynote to WWDC <TIMEX3 tid="t1" type="DATE" value="2005">2005</TIMEX3>
+
+<TIMEX3 tid="t2" type="DATE" value="2005-06-06">June 6, 2005</TIMEX3>
+
+Apple Computer CEO and co-founder Steve Jobs gave his annual opening keynote to the World Wide Developers Conference (WWDC )at Moscone Center in San Francisco, California on <TIMEX3 tid="t3" type="DATE" value="2005-06-06">Monday</TIMEX3>.
+
+He announced a seamless integration of podcasting with iTunes, and, to the amazement of many, <TIMEX3 tid="t4" type="DATE" value="FUTURE_REF">that future</TIMEX3> Apple Macintosh computers will feature Intel processors.
+
+Jobs welcomed everyone to the event and announced that there were 3,800 attendees.
+
+There are 500 Apple engineers at what is their largest developers conference in <TIMEX3 tid="t5" type="DATE" value="PAST_REF">the past decade</TIMEX3>.
+
+</TEXT>
+</TimeML>

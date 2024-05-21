@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_1040</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-26">1989-10-26</TIMEX3></DCT>
+<TEXT>
+ONEIDA Ltd. declared a 10% stock dividend, payable <TIMEX3 tid="t1" type="DATE" value="1989-12-15">Dec. 15</TIMEX3> to stock of record <TIMEX3 tid="t2" type="DATE" value="1989-11-17">Nov. 17</TIMEX3>. The Oneida, N.Y., maker of consumer, food-service and industrial products also declared a <TIMEX3 tid="t3" type="SET" value="XXXX-QX">quarterly</TIMEX3> cash dividend of 12 cents a share, with the same payable and record dates. The cash dividend paid on the common stock also will apply to the new shares, the company said. The move rewards shareholders and should improve the stock's liquidity, Oneida said. The company has about 8.8 million shares outstanding. In New York Stock Exchange composite trading <TIMEX3 tid="t4" type="DATE" value="1989-10-25">yesterday</TIMEX3>, Oneida's shares closed at $18.375 a share, unchanged.
+</TEXT>
+</TimeML>

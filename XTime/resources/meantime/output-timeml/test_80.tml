@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_80.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2011-08-08">2011-08-08</TIMEX3></DCT>
+<TEXT>
+
+Boeing rolls out first 787 Dreamliner to go into service
+
+<TIMEX3 tid="t1" type="DATE" value="2011-08-08">August 08, 2011</TIMEX3>
+
+<TIMEX3 tid="t2" type="DURATION" value="P3Y">Three years</TIMEX3> after it was first due for delivery, Boeing has rolled out the first that is to be delivered to a customer.
+
+Japan's (ANA )were to take delivery in <TIMEX3 tid="t3" type="DATE" value="2008-05">May 2008</TIMEX3>, but will <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">now</TIMEX3> receive the aircraft <TIMEX3 tid="t5" type="DATE" value="2011-09">next month</TIMEX3>.
+
+The plane promises increased fuel efficiency as it is the first model to be built out of plastic and carbon composites, more lightweight than conventional materials.
+
+Boeing says they have 800 orders at 200 million per aircraft.
+
+</TEXT>
+</TimeML>

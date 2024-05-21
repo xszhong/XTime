@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_104.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2009-06-01">2009-06-01</TIMEX3></DCT>
+<TEXT>
+
+U.S. manufacturer General Motors seeks bankruptcy protection
+
+<TIMEX3 tid="t1" type="DATE" value="2009-06-01">June 01, 2009</TIMEX3>
+
+United States automobile manufacturing firm General Motors filed for bankruptcy and Chapter 11 protection from its creditors at <TIMEX3 tid="t2" type="TIME" value="2009-06-01T12:00Z">12:00 UTC Monday</TIMEX3>, in a Manhattan, New York federal bankruptcy court.
+
+This was the largest bankruptcy filing for a U.S. manufacturing company, and with declared assets of $82.29 billion and a debt of $172.81 billion, and the fourth largest bankruptcy filing <TIMEX3 tid="t3" type="DATE" value="PAST_REF">in recent U.S. history</TIMEX3> --after the bankruptcies of Lehman Brothers ($691.06 billion ), Washington Mutual ($327.91 billion ), and WorldCom ($103.91 billion ).
+
+</TEXT>
+</TimeML>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_5.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2007-09-05">2007-09-05</TIMEX3></DCT>
+<TEXT>
+
+Apple announces new iPod range
+
+<TIMEX3 tid="t1" type="DATE" value="2007-09-05">September 05, 2007</TIMEX3>
+
+Apple have released several re-designs of their popular iPod range.
+
+In addition to the iPod Classic, Nano and Shuffle, they have announced the brand new iPod touch, a media player which mimics the iPhone's touch-screen capabilities.
+
+The new iPod Classic design features a larger memory space of up to 160GB or 40,000 songs, and has a new all-metal design.
+
+The iPod nano is <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">now</TIMEX3> smaller and squarer, adding video playback to its features for the first time.
+
+</TEXT>
+</TimeML>

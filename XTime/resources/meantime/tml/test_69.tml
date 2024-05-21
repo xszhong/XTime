@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_69.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2007-10-17">2007-10-17</TIMEX3></DCT>
+<TEXT>
+
+First A380 enters commercial service
+
+<TIMEX3 tid="t1" type="DATE" value="2007-10-17">October 17, 2007</TIMEX3>
+
+It was a milestone in aviation history :the first Airbus A380 landed at Singapore's Changi International Airport at <TIMEX3 tid="t2" type="TIME" value="2007-10-17T06:40Z">6:40 p.m.( GMT +8)</TIMEX3> after a <TIMEX3 tid="t3" type="DURATION" value="PT12H">12-hour</TIMEX3> flight from Airbus' Delivery Center.
+
+The aircraft was greeted by some 400 guests, including the Prime Minister of Singapore, Mr. Lee Hsien Loong, at the soon-to-open Terminal 3 of Changi International Airport.
+
+In his speech, the Prime Minister applauded Singapore Airlines (SIA )-the recipient carrier-and cited its success as a source of pride for all Singaporeans.
+
+He also said that the landing was a milestone not only for SIA, but also for Changi International Airport, the country's main airport.
+
+</TEXT>
+</TimeML>

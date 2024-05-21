@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0924</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-26">1989-10-26</TIMEX3></DCT>
+<TEXT>
+Dominion Textile Inc. holders adopted a shareholder-rights plan at the annual meeting.
+
+The so-called poison pill took effect <TIMEX3 tid="t1" type="DATE" value="1989-08-09">Aug. 9</TIMEX3> pending ratification by holders. Rights attached to the company's common shares were issued that are triggered if a hostile bidder acquires more than 20% of the shares outstanding. Once triggered, the rights allow holders to buy additional shares at 50% of the then current market price or, at the board's discretion, to receive securities or assets.
+
+Separately, Dominion Textile posted net income of 4.7 million Canadian dollars ($4 million), or 12 Canadian cents a share, for the fiscal-first <TIMEX3 tid="t2" type="DATE" value="">quarter</TIMEX3> ended <TIMEX3 tid="t3" type="DATE" value="1989-09-30">Sept. 30</TIMEX3>. The company had a net loss of C$2.3 million, or 14 Canadian cents a share, <TIMEX3 tid="t4" type="DATE" value="1988">a year ago</TIMEX3>. Sales were C$348.2 million compared with C$<TIMEX3 tid="t5" type="DATE" value="1988">307.2 a year earlier</TIMEX3>.
+</TEXT>
+</TimeML>

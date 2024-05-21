@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0928</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-26">1989-10-26</TIMEX3></DCT>
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="1989-10-22-WXX-7">Sun</TIMEX3> Microsystems Inc., snapping back to profitability after its first <TIMEX3 tid="t2" type="SET" value="XXXX-QX">quarterly</TIMEX3> loss as a public firm, said it earned $5.2 million, or seven cents a share, in the fiscal <TIMEX3 tid="t3" type="DATE" value="1989-Q1">first quarter</TIMEX3>.
+
+<TIMEX3 tid="t4" type="DATE" value="1989-10-22-WXX-7">Sun</TIMEX3>, a maker of computer workstations, reported sales of $538.5 million for <TIMEX3 tid="t5" type="DATE" value="1989-Q4">the quarter</TIMEX3> ended <TIMEX3 tid="t6" type="DATE" value="1989-09-29">Sept. 29</TIMEX3>, up 39% from $388.5 million <TIMEX3 tid="t7" type="DATE" value="1988">a year earlier</TIMEX3>. In the <TIMEX3 tid="t8" type="DATE" value="1988">1988</TIMEX3> period, the company earned $20.6 million, or 26 cents a share.
+
+<TIMEX3 tid="t9" type="DATE" value="1988-09-25-WXX-7">Sun</TIMEX3>'s results were slightly better than expectations. Earlier <TIMEX3 tid="t10" type="DATE" value="1988-09">this month</TIMEX3>, the company said it expected to break even for <TIMEX3 tid="t11" type="DATE" value="1988-Q3">the quarter</TIMEX3> on sales of $530 million.
+
+In a statement, Scott McNealy, <TIMEX3 tid="t12" type="DATE" value="1988-09-25-WXX-7">Sun</TIMEX3>'s chief executive officer, said the company's performance was hampered by problems tied to the introduction of a major new family of computers in <TIMEX3 tid="t13" type="DATE" value="1988-04">April</TIMEX3>. One of those new computers, called Sparcstation 1, accounted for nearly half of the 28,000 systems <TIMEX3 tid="t14" type="DATE" value="1988-04-24-WXX-7">Sun</TIMEX3> shipped in <TIMEX3 tid="t15" type="DATE" value="1988-Q2">the quarter</TIMEX3>, he said. More than two-thirds of the systems shipped, meanwhile, were products introduced in <TIMEX3 tid="t16" type="DATE" value="1988-04">April</TIMEX3>.
+
+But problems in manufacturing, forecasting demand and getting the bugs out of a new management information system made it extremely difficult for <TIMEX3 tid="t17" type="DATE" value="1988-04-24-WXX-7">Sun</TIMEX3> to meet demand for its newest computers well into <TIMEX3 tid="t18" type="DATE" value="1988-SU">the summer</TIMEX3>. These problems also resulted in <TIMEX3 tid="t19" type="DATE" value="1988-04-24-WXX-7">Sun</TIMEX3> reporting a $20.3 million loss for its <TIMEX3 tid="t20" type="DATE" value="1988-Q4">fourth quarter</TIMEX3> ended <TIMEX3 tid="t21" type="DATE" value="1988-06-30">June 30</TIMEX3>.
+
+Mr. McNealy said the issues that hurt <TIMEX3 tid="t22" type="DATE" value="1988-06-26-WXX-7">Sun</TIMEX3>'s performance earlier <TIMEX3 tid="t23" type="DATE" value="1988">this year</TIMEX3> are <TIMEX3 tid="t24" type="DATE" value="PRESENT_REF">now</TIMEX3> " largely" behind the firm, and he indicated that <TIMEX3 tid="t25" type="DATE" value="1988-07-03-WXX-7">Sun</TIMEX3>'s profitability should increase throughout the fiscal <TIMEX3 tid="t26" type="DATE" value="1988">year</TIMEX3>.
+
+<TIMEX3 tid="t27" type="DATE" value="1988-06-26-WXX-7">Sun</TIMEX3> also reported a record backlog of orders. While this indicates continued strong demand for the company's desk-top computers, <TIMEX3 tid="t28" type="DATE" value="1988-06-26-WXX-7">Sun</TIMEX3> faces increasing competition from Digital Equipment Corp. and Hewlett-Packard Co. <TIMEX3 tid="t29" type="DATE" value="PAST_REF">Recently</TIMEX3>, analysts have said <TIMEX3 tid="t30" type="DATE" value="1988-06-26-WXX-7">Sun</TIMEX3> also is vulnerable to competition from International Business Machines Corp., which plans to introduce a group of workstations <TIMEX3 tid="t31" type="DATE" value="1989">early next year</TIMEX3>, and Next Inc.
+</TEXT>
+</TimeML>

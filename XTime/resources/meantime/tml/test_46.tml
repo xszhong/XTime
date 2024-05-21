@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_46.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2008-01-21">2008-01-21</TIMEX3></DCT>
+<TEXT>
+
+World stocks plunge on fears on US recession
+
+<TIMEX3 tid="t1" type="DATE" value="2008-01-21">January 21, 2008</TIMEX3>
+
+Stock prices dropped sharply in Europe and Asia <TIMEX3 tid="t2" type="DATE" value="2008-01-21">Monday</TIMEX3>, with fears of economic problems in the United States causing some of the biggest single-day losses in <TIMEX3 tid="t3" type="DATE" value="PAST_REF">recent years</TIMEX3>.
+
+In Hong Kong, the Hang Seng index fell 5.5 percent-its biggest fall since the September 11, 2001, terrorist attacks.
+
+Losses of between three and seven percent were recorded in India, China, Britain, France, Germany and Canada.
+
+While there are many factors linking national economies, analysts blame <TIMEX3 tid="t4" type="DURATION" value="PAST_REF">recent</TIMEX3> losses on fears of a recession in the United States.
+
+</TEXT>
+</TimeML>

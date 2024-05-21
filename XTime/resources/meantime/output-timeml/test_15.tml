@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_15.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2008-01-09">2008-01-09</TIMEX3></DCT>
+<TEXT>
+
+Apple to lower UK iTunes prices
+
+<TIMEX3 tid="t1" type="DATE" value="2008-01-09">January 09, 2008</TIMEX3>
+
+The European Commission has forced Apple Inc. to lower its prices for media in its United Kingdom iTunes store, Apple's online media shop.
+
+The change in policy will occur within <TIMEX3 tid="t2" type="DURATION" value="P6M">the next six months</TIMEX3>, Apple announced <TIMEX3 tid="t3" type="TIME" value="2008-01-09TMO">this morning</TIMEX3>.
+
+Apple is the producer of the world's most-sold MP3 Player, the iPod and launched the iTunes Music Store, a online music store, on <TIMEX3 tid="t4" type="DATE" value="2003-04-28">April 28, 2003</TIMEX3>.
+
+The store was renamed to iTunes Store in <TIMEX3 tid="t5" type="DATE" value="2006">2006</TIMEX3>, as Apple began selling other media apart from music, such as feature-length movies.
+
+</TEXT>
+</TimeML>

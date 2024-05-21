@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_58.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2008-10-09">2008-10-09</TIMEX3></DCT>
+<TEXT>
+
+Markets down across the world; Dow Jones falls below 9,000
+
+<TIMEX3 tid="t1" type="DATE" value="2008-10-09">October 9, 2008</TIMEX3>
+
+Stock markets across the world fell dramatically <TIMEX3 tid="t2" type="DATE" value="2008-W42">this week</TIMEX3> on worries that <TIMEX3 tid="t3" type="DATE" value="PAST_REF">recent</TIMEX3> government moves might not prevent a global recession.
+
+The largest drop was with the Dow Jones (DJIA ), which fell 678 points or more than 7.3% to below 9,000, closing at 8,579.19.
+
+The index fell over 2,000 points in <TIMEX3 tid="t4" type="DATE" value="P9D">the past nine days</TIMEX3> to reach its lowest level since <TIMEX3 tid="t5" type="DATE" value="2003">2003</TIMEX3>.
+
+The S&amp;P 500 was down more than 7%.
+
+</TEXT>
+</TimeML>

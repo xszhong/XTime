@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0551</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-30">1989-10-30</TIMEX3></DCT>
+<TEXT>
+Trustcorp Inc. will become Society Bank amp Trust when its merger is completed with Society Corp. of Cleveland, the bank said.
+
+Society Corp., which is also a bank, agreed in <TIMEX3 tid="t1" type="DATE" value="1989-06">June</TIMEX3> to buy Trustcorp for 12.4 million shares of stock with a market value of about $450 million. The transaction is expected to close around <TIMEX3 tid="t2" type="DATE" value="1989">year</TIMEX3> end.
+</TEXT>
+</TimeML>

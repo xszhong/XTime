@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_8.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2011-01-17">2011-01-17</TIMEX3></DCT>
+<TEXT>
+
+Apple Inc. CEO Steve Jobs on medical leave
+
+<TIMEX3 tid="t1" type="DATE" value="2011-01-17">January 17, 2011</TIMEX3>
+
+Steve Jobs, the chief executive officer of Apple Inc., announced <TIMEX3 tid="t2" type="DATE" value="2011-01-17">Monday</TIMEX3> in an internal memo that he would be on medical leave for <TIMEX3 tid="t3" type="DATE" value="PXD">an undetermined period of time</TIMEX3>.
+
+The statement caused a sharp decrease of Apple share prices in foreign markets, while US markets were closed in honor of Martin Luther King.
+
+<TIMEX3 tid="t4" type="DATE" value="2011-01-17">Monday</TIMEX3>'s email announcement marked the third time in <TIMEX3 tid="t5" type="DATE" value="200">the past decade</TIMEX3> that Jobs, aged 55, has taken medical leave.
+
+He fought pancreatic cancer in <TIMEX3 tid="t6" type="DATE" value="2004">2004</TIMEX3> and took <TIMEX3 tid="t7" type="DURATION" value="P6M">six months</TIMEX3> off in <TIMEX3 tid="t8" type="DATE" value="2009">early 2009</TIMEX3>, <TIMEX3 tid="t9" type="DATE" value="XXXX-XX-XX">later</TIMEX3> revealing he had undergone a liver transplant.
+
+</TEXT>
+</TimeML>

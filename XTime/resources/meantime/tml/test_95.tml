@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_95.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2009-05-14">2009-05-14</TIMEX3></DCT>
+<TEXT>
+
+U.S. automaker Chrysler wants to eliminate 789 dealerships
+
+<TIMEX3 tid="t1" type="DATE" value="2009-05-14">May 14, 2009</TIMEX3>
+
+American automobile manufacturer Chrysler LLC has said that it wants to eliminate 789, or about a quarter, of its 3,200 dealers by <TIMEX3 tid="t2" type="DATE" value="2009-06">early June</TIMEX3>.
+
+In a bankruptcy court filing on <TIMEX3 tid="t3" type="DATE" value="2009-05-14">Thursday</TIMEX3>, the firm stated its network has too many dealers competing between each other and is antiquated.
+
+A <TIMEX3 tid="t4" type="DATE" value="2009-06-03">June 3</TIMEX3> hearing has been scheduled in the US Bankruptcy Court to determine whether the move should be approved.
+
+``This is a difficult day for us and not a day anybody can be prepared for, '' said Jim Press, the Vice Chairman of Chrysler.
+
+</TEXT>
+</TimeML>

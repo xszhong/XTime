@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_92.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2009-11-03">2009-11-03</TIMEX3></DCT>
+<TEXT>
+
+Automobile manufacturer Ford posts unexpected profits
+
+<TIMEX3 tid="t1" type="DATE" value="2009-11-03">November 03, 2009</TIMEX3>
+
+The US automobile manufacturer Ford has said that it posted a net profit of US$ 997 million in <TIMEX3 tid="t2" type="DATE" value="2009">the third quarter of this year</TIMEX3>, and predicted that it would be ``solidly profitable'' by <TIMEX3 tid="t3" type="DATE" value="2011">2011</TIMEX3>.
+
+The reports surprised most analysts, who had forecast that the auto company would lose money.
+
+Ford's profits equate to 26 cents per share, a large difference to the 12 cent per share lost that had been anticipated by most economic analysts.
+
+``Our <TIMEX3 tid="t4" type="DATE" value="2009-Q3">third-quarter</TIMEX3> results clearly show Ford is making tremendous progress despite the prolonged economic slump, '' said the firm's chief executive officer, Alan Mulally.
+
+</TEXT>
+</TimeML>

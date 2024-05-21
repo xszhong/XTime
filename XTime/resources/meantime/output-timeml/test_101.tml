@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_101.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2009-11-05">2009-11-05</TIMEX3></DCT>
+<TEXT>
+
+Automaker GM to cut 10,000 jobs at Opel
+
+<TIMEX3 tid="t1" type="DATE" value="2009-11-05">November 05, 2009</TIMEX3>
+
+The US car manufacturer General Motors said that it would axe 10,000 jobs at its European division, Opel.
+
+According to the company's vice president John Smith, the firm wanted to reduce costs at Opel by 30%.
+
+Smith announced the company's move on <TIMEX3 tid="t2" type="DATE" value="2009-11-04">Wednesday</TIMEX3>.
+
+He did n't say where the cuts were going to take place, but wanted to <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">present</TIMEX3> details of the plan to European governments ``very soon'' .
+
+</TEXT>
+</TimeML>

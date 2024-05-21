@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_73.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2005-01-29">2005-01-29</TIMEX3></DCT>
+<TEXT>
+
+Chinese airlines agree purchase of Boeing 787 Dreamliners worth US$ 7.2 bn
+
+<TIMEX3 tid="t1" type="DATE" value="2005-01-29">January 29, 2005</TIMEX3>
+
+Officials from the People's Republic of China have agreed to purchase 60 Boeing 787 Dreamliner aircraft in a deal worth US$ 7.2 bn.
+
+In China, airliners are selected and purchased by the government, which then distributes them to different airlines.
+
+The preliminary agreement will see Dreamliners delivered to six airlines-Air China, China Eastern Airlines, China Southern Airlines, Hainan Airlines, Shanghai Airlines and Xiamen Airlines.
+
+The deliveries are scheduled to be in time for the <TIMEX3 tid="t2" type="DATE" value="2008">2008</TIMEX3> Beijing Olympic Games.
+
+</TEXT>
+</TimeML>

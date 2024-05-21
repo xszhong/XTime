@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_86.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2006-10-05">2006-10-05</TIMEX3></DCT>
+<TEXT>
+
+Singapore Airlines to be compensated for A380 delays
+
+<TIMEX3 tid="t1" type="DATE" value="2006-10-05">October 05, 2006</TIMEX3>
+
+Singapore Airlines says that it will be compensated by Airbus for the additional delay in delivery of its new superjumbo A380's .
+
+The double-deck commercial aircrafts' delivery, originally due later <TIMEX3 tid="t2" type="DATE" value="2006">this year</TIMEX3>, will be delayed until <TIMEX3 tid="t3" type="DATE" value="2007-10">October 2007</TIMEX3>.
+
+The main fault has been found to be problems in the aircraft's 500km of wiring.
+
+In a statement on the Airbus website, the company said that ``the root cause of the problem is the fact that the 3D Digital mock-up, which facilitates the design of the electrical harnesses installation, was implemented late and that the people working on it were in their learning curve'' .
+
+</TEXT>
+</TimeML>

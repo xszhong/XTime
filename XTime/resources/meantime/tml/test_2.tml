@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_2.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2007-01-10">2007-01-10</TIMEX3></DCT>
+<TEXT>
+
+Apple introduces iPhone and Apple TV
+
+<TIMEX3 tid="t1" type="DATE" value="2007-01-10">January 10, 2007</TIMEX3>
+
+Apple Inc. <TIMEX3 tid="t2" type="DATE" value="2007-01-10">today</TIMEX3> has introduced the much-anticipated iPhone at the Macworld Conference in San Francisco.
+
+The iPhone is claimed to be ``a revolutionary mobile phone'' as stated on the Apple website.
+
+The device appears to be running a mobile version of the Apple operating system Mac OSX.
+
+It is approximately the same size as a 5th generation iPod, it has a 3.5-inch LCD touchscreen display that is used to access all features of the phone including number dial, as well as making phone calls.
+
+</TEXT>
+</TimeML>

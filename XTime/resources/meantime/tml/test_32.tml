@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_32.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2008-10-13">2008-10-13</TIMEX3></DCT>
+<TEXT>
+
+Global markets surge in value
+
+<TIMEX3 tid="t1" type="DATE" value="2008-10-13">October 13, 2008</TIMEX3>
+
+Markets worldwide have surged in value following efforts by governments to ease the effect of the ongoing financial crisis, which has <TIMEX3 tid="t2" type="DATE" value="PAST_REF">recently</TIMEX3> caused a massive decline in the value of stock markets.
+
+On <TIMEX3 tid="t3" type="DATE" value="2008-10-12">Sunday</TIMEX3>, the fifteen countries from the Eurogroup --that is, those countries which use the euro as official currency --had agreed on a joint plan to face the crisis, which would consist in supporting financial institutions and by guaranteeing interbank loans.
+
+The Eurogroup meeting was the last of many which took place during <TIMEX3 tid="t4" type="DATE" value="2008-W42-WE">the weekend</TIMEX3>.
+
+The G7 nations had met in Washington at the same time that the International Monetary Fund and the World Bank held their <TIMEX3 tid="t5" type="DATE" value="2008-FA">Autumn</TIMEX3> meetings.
+
+</TEXT>
+</TimeML>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_65.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2005-11-05">2005-11-05</TIMEX3></DCT>
+<TEXT>
+
+Engine troubles delay Airbus superjumbo tour
+
+<TIMEX3 tid="t1" type="DATE" value="2005-11-05">November 05, 2005</TIMEX3>
+
+The departure from France of the new Airbus A380 superjumbo airliner on a tour of Asia and Australia has been delayed, leading to a rearrangement of its public appearances.
+
+Citing ``a precautionary measure'' , Airbus announced that two of the Rolls-Royce Trent 900 engines on the prototype airliner would be replaced before the tour commenced.
+
+Singapore will remain the airliner's first stop, where Singapore Airlines will display the aircraft they intend to launch into passenger-carrying service in <TIMEX3 tid="t2" type="DATE" value="2006-11">November 2006</TIMEX3>.
+
+It is expected that the Airbus 380 will wear the livery of Singapore Airlines when it arrives on <TIMEX3 tid="t3" type="DATE" value="2005-11-11">November 11</TIMEX3>, <TIMEX3 tid="t4" type="DATE" value="2005-11-11">three days later than originally planned</TIMEX3>.
+
+</TEXT>
+</TimeML>

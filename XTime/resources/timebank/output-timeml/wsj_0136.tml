@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0136</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-02">1989-11-02</TIMEX3></DCT>
+<TEXT>
+Oshkosh Truck Corp., Oshkosh, Wis., estimated earnings for its <TIMEX3 tid="t1" type="DATE" value="1989-Q4">fourth quarter</TIMEX3> ended <TIMEX3 tid="t2" type="DATE" value="1989-09-30">Sept. 30</TIMEX3> fell 50% to 75% below the year-earlier $4.5 million, or 51 cents a share.
+
+The truck maker said the significant drop in net income will result in lower earnings for the fiscal <TIMEX3 tid="t3" type="DATE" value="1989">year</TIMEX3>. In fiscal <TIMEX3 tid="t4" type="DATE" value="1988">1988</TIMEX3>, the company earned $17.3 million, or $1.92 a share, on revenue of $352.9 million.
+
+Oshkosh Truck attributed the downturn in its earnings to higher start-up costs of its new chassis division, a softer motor-home market and higher administrative costs of compliance with government contractor regulations.
+
+The company said it is in the process of phasing out John Deere, its current source of production for midsized motor home chassis. In anticipation of the start-up of its new factory, the company said a larger-than-normal chassis supply has been built to carry it through the transition period.
+</TEXT>
+</TimeML>

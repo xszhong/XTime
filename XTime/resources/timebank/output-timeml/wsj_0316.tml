@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0316</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-01">1989-11-01</TIMEX3></DCT>
+<TEXT>
+First Security Corp. said it tentatively agreed to acquire Deseret Bancorp. for stock valued at about $18 million.
+
+Terms call for First Security to issue about 0.55 share of its stock for each Deseret share held, or a total of about 550,000 First Security shares. It has about 12.3 million shares outstanding.
+
+Deseret, with about $100 million in assets, is the parent of the Deseret Bank, which has six offices and headquarters at Pleasant Grove, Utah. The purchase price is equal to about 1.65 times Deseret's roughly $10.7 million book value, or assets less liabilities.
+
+Salt Lake City-based First Security, with $5.4 billion in assets, said the agreement is subject to shareholder and regulatory approval, and that it hopes to complete the transaction <TIMEX3 tid="t1" type="DATE" value="1990">early next year</TIMEX3>.
+</TEXT>
+</TimeML>

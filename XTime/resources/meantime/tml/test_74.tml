@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_74.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2007-07-09">2007-07-09</TIMEX3></DCT>
+<TEXT>
+
+Boeing unveils new 787 Dreamliner
+
+<TIMEX3 tid="t1" type="DATE" value="2007-07-09">July 09, 2007</TIMEX3>
+
+Aircraft manufacturer Boeing have unveiled their new 787 Dreamliner at their Everett Factory near Seattle, Washington, in the United States.
+
+<TIMEX3 tid="t2" type="DATE" value="2007-07-08">Sunday</TIMEX3> was chosen as <TIMEX3 tid="t3" type="DATE" value="2007-07-08">its date</TIMEX3> matches the aircraft's designation number when written in the American format, <TIMEX3 tid="t4" type="DATE" value="2007-07-08">7/8/07</TIMEX3>.
+
+The event was attended by 15,000 people including employees, customers, suppliers and officials from government and the local community.
+
+Scott Carson, president and CEO of Boeing Commercial Airplanes said, ``This has been a wonderful and exciting day to celebrate this breakthrough airplane with our customers, employees, supplier partners and our communities. ''
+
+</TEXT>
+</TimeML>

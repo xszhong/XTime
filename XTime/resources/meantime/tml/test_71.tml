@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_71.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2005-06-13">2005-06-13</TIMEX3></DCT>
+<TEXT>
+
+Airbus wins Qatar Airways order worth $15bn
+
+<TIMEX3 tid="t1" type="DATE" value="2005-06-13">June 13, 2005</TIMEX3>
+
+European aircraft manufacturer, Airbus, has won an order from Qatar Airways for up to 60 of its new mid-sized A350 jets.
+
+The order, which is believed to be worth $15 billion, has given a boost to an otherwise disappointing Paris Air Show, which had been dominated by a state aid dispute between Airbus and Boeing.
+
+Qatar Airways, which choose the Airbus A350 over Boeing's 787, will also purchase 20 of Boeing's larger 777 planes for $4.6 billion.
+
+Qatar has a previous order for 2 of Airbus' massive new A380's which it will begin to fly in <TIMEX3 tid="t2" type="DATE" value="2009">2009</TIMEX3> out of London Heathrow.
+
+</TEXT>
+</TimeML>

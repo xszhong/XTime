@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_1038</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-26">1989-10-26</TIMEX3></DCT>
+<TEXT>
+Benjamin Franklin Federal Savings amp Loan Association said it plans to restructure in the wake of a <TIMEX3 tid="t1" type="DATE" value="1989-Q3">third-quarter</TIMEX3> loss of $7.7 million, or $1.01 a share, reflecting an $11 million addition to loan-loss reserves.
+
+The Portland, Ore., thrift said the restructuring should help it meet new capital standards from the Financial Institution Reform, Recovery and Enforcement Act. <TIMEX3 tid="t2" type="DATE" value="1988">A year ago</TIMEX3>, Benjamin Franklin had profit of $1.8 million, or 23 cents a share.
+
+In over-the-counter trading <TIMEX3 tid="t3" type="DATE" value="1989-10-25">yesterday</TIMEX3>, Benjamin Franklin rose 25 cents to $4.25.
+
+The company said the restructuring's initial phase will feature a gradual reduction in assets and staff positions. The plan may include selling branches, consolidating or eliminating departments, and winding down or disposing of unprofitable units within <TIMEX3 tid="t4" type="DURATION" value="P18M">18 months</TIMEX3>.
+
+Initially, the company said it will close its commercial real-estate lending division, and stop originating new leases at its commercial lease subsidiary.
+
+Details of the restructuring won't be made final until regulators approve the regulations mandated by the new federal act, the company said.
+</TEXT>
+</TimeML>

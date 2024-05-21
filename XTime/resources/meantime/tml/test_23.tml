@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_23.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2006-01-11">2006-01-11</TIMEX3></DCT>
+<TEXT>
+
+Apple unveils new Intel-based Mac
+
+<TIMEX3 tid="t1" type="DATE" value="2006-01-11">January 11, 2006</TIMEX3>
+
+Apple Computer announced on <TIMEX3 tid="t2" type="DATE" value="2006-01-10">Tuesday</TIMEX3> the first generation of their products to use Intel processors.
+
+The iMac and the new MacBook Pro-a notebook computer replacing the PowerBook-are said to be up to four times faster than their predecessors (up to two times faster in the iMac, four times for the MacBook. )
+
+These new lines of computers have been set up to support the newest collection of Mac software entitled iLife, which has added internet publication software to its high-end graphics, video, and sound tools.
+
+</TEXT>
+</TimeML>

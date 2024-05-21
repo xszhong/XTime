@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>ABC19980114.1830.0611</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1998-01-14">1998-01-14</TIMEX3></DCT>
+<TEXT>
+In Washington <TIMEX3 tid="t1" type="DATE" value="1998-01-14">today</TIMEX3>, the Federal Aviation Administration released air traffic control tapes from <TIMEX3 tid="t2" type="TIME" value="1998-01-14TNI">the night</TIMEX3> the TWA Flight eight hundred went down. There's nothing new on why the plane exploded, but you cannot miss <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">the moment</TIMEX3>. ABC's Lisa Stark has more.
+
+There was no hint of trouble in the last conversation between controllers and TWA pilot Steven Snyder TWA eight hundred climb maintain one five thousand.
+
+TWA's eight hundred heavy climb and maintain one five thousand leavin- three thousand.
+
+But <TIMEX3 tid="t4" type="DURATION" value="PT1M">a minute</TIMEX3> and a half later, a pilot from a nearby flight calls in.
+
+Ah, we just saw an explosion up ahead of us here about sixteen thousand feet or something like that. It just went down.
+
+The controller at Boston center tries to raise TWA eight hundred.
+
+TWA eight hundred, if you hear center, ident.
+
+There is no response. Later, the controller asks the Eastwind pilot for more details.
+
+Ah yes, sir. It- It just blew up in the air, and then we saw two fireballs go down to the, to the water, and there was a big small, ah, smoke, from ah, coming up from that.
+
+At one point, when it became clear controllers could not contact the plane, someone said a prayer.
+
+TWA eight hundred center, I think that was him.
+
+I think so.
+
+God bless him.
+
+Lisa Stark ABC news Washington
+</TEXT>
+</TimeML>

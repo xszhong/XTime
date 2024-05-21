@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_70.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2007-06-10">2007-06-10</TIMEX3></DCT>
+<TEXT>
+
+Aeroflot negotiates purchase of 22 new Boeing 787 Dreamliner aircraft
+
+<TIMEX3 tid="t1" type="DATE" value="2007-06-10">June 10, 2007</TIMEX3>
+
+Russian flag carrier Aeroflot has negotiated the purchase of 22 new Boeing 787 Dreamliners, an aircraft Boeing currently has under development.
+
+The first jets will be delivered in <TIMEX3 tid="t2" type="DATE" value="2014">2014</TIMEX3>.
+
+The Dreamliner will be the first commercial jet to be manufactured mainly with carbon-fiber composites instead of the aluminium previously used.
+
+The deal was announced during a large business forum that President Vladimir Putin had set up to showcase his country's role in the international market.
+
+</TEXT>
+</TimeML>

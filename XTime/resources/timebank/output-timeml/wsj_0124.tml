@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0124</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-02">1989-11-02</TIMEX3></DCT>
+<TEXT>
+William C. Walbrecher Jr., an executive at San Francisco-based 1st Nationwide Bank, was named president and chief executive officer of Citadel Holding Corp. and its principal operating unit, Fidelity Federal Bank.
+
+The appointment takes effect <TIMEX3 tid="t1" type="DATE" value="1989-11-13">Nov. 13</TIMEX3>. He succeeds James A. Taylor, who stepped down as chairman, president and chief executive in <TIMEX3 tid="t2" type="DATE" value="1989-03">March</TIMEX3> for health reasons. Edward L. Kane succeeded Mr. Taylor as chairman.
+
+Separately, Citadel posted a <TIMEX3 tid="t3" type="DATE" value="1989-Q3">third-quarter</TIMEX3> net loss of $2.3 million, or 68 cents a share, versus net income of $5.3 million, or $1.61 a share, <TIMEX3 tid="t4" type="DATE" value="1988">a year earlier</TIMEX3>.
+
+The latest results include some unusual write-downs, which had an after-tax impact of $4.9 million. Those included costs associated with the potential Valley Federal Savings and Loan Association acquisition, which was terminated on <TIMEX3 tid="t5" type="DATE" value="1989-09-27">Sept. 27, 1989</TIMEX3>. In addition, operating results were hit by an increase in loan and real estate loss reserves.
+
+In American Stock Exchange composite trading, Citadel shares closed <TIMEX3 tid="t6" type="DATE" value="1989-11-01">yesterday</TIMEX3> at $45.75, down 25 cents.
+</TEXT>
+</TimeML>

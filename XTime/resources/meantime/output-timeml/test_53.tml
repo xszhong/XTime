@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_53.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2007-10-20">2007-10-20</TIMEX3></DCT>
+<TEXT>
+
+US stock markets tumble on `Black <TIMEX3 tid="t1" type="DATE" value="2007-10-15">Monday</TIMEX3>' anniversary
+
+<TIMEX3 tid="t2" type="DATE" value="2007-10-20">October 20, 2007</TIMEX3>
+
+Some say history tends to repeat itself.
+
+<TIMEX3 tid="t3" type="DATE" value="2007-10-20">Today</TIMEX3> marked <TIMEX3 tid="t4" type="DURATION" value="P1D">a day</TIMEX3> in history, when <TIMEX3 tid="t5" type="DATE" value="1987">20 years ago</TIMEX3>, the United States Dow Jones Industrial Average market crashed, on what is known as `Black <TIMEX3 tid="t6" type="DATE" value="2007-10-15">Monday</TIMEX3>' .
+
+The crash sent the market tumbling down 508 points, losing nearly 24%.
+
+On <TIMEX3 tid="t7" type="DATE" value="2007-10-19">Friday</TIMEX3>, the Dow Jones nearly broke that record when the market closed at -366.94 points, down almost three percent.
+
+</TEXT>
+</TimeML>

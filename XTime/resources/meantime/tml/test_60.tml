@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_60.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2009-02-24">2009-02-24</TIMEX3></DCT>
+<TEXT>
+
+US stock markets fall to lowest levels since <TIMEX3 tid="t1" type="DATE" value="1997">1997</TIMEX3>
+
+<TIMEX3 tid="t2" type="DATE" value="2009-02-24">February 24, 2009</TIMEX3>
+
+Three major United States stock market indexes closed at their lowest levels in <TIMEX3 tid="t3" type="DATE" value="P10Y">over a decade</TIMEX3> on <TIMEX3 tid="t4" type="DATE" value="2009-02-23">Monday</TIMEX3>, amidst declining investor confidence and worries that the government will nationalize the banks.
+
+The Dow Jones Industrial Average fell by 3.41%, or 251.4 points, to end <TIMEX3 tid="t5" type="DATE" value="2009-02-23">the day</TIMEX3> at 7,114.3, its lowest level since <TIMEX3 tid="t6" type="DATE" value="1997-10">October 1997</TIMEX3>.
+
+The Standard and Poor's 500 index lost 26 points or 3.5% to a level of 743.33, its lowest level since <TIMEX3 tid="t7" type="DATE" value="1997-04">April 1997</TIMEX3>.
+
+The Russel 2000 Index of smaller companies dropped by four percent.
+
+</TEXT>
+</TimeML>

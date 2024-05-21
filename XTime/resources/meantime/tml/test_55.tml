@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_55.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2007-02-27">2007-02-27</TIMEX3></DCT>
+<TEXT>
+
+U.S. stocks plummet amid global sell-off
+
+<TIMEX3 tid="t1" type="DATE" value="2007-02-27">February 27, 2007</TIMEX3>
+
+The biggest U.S. stock market index, the Dow Jones, plunged by more than 416 points by the closing bell on <TIMEX3 tid="t2" type="DATE" value="2007-02-27">Tuesday</TIMEX3>, the worst <TIMEX3 tid="t3" type="DATE" value="P1D">single-day</TIMEX3> decline since the re-opening of the markets following the September 11th terrorist attacks.
+
+The slip followed a 9% sell-off in Chinese markets.
+
+Other stock indices, such as the Nasdaq and the S&amp;P 500, dipped by 96 points and 50 points, respectively.
+
+It was the 7th largest <TIMEX3 tid="t4" type="DATE" value="P1D">single-day</TIMEX3> decline is U.S. history.
+
+</TEXT>
+</TimeML>

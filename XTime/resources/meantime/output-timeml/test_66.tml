@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_66.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2005-04-27">2005-04-27</TIMEX3></DCT>
+<TEXT>
+
+Boeing secures $11bn of aircraft deals
+
+<TIMEX3 tid="t1" type="DATE" value="2005-04-27">April 27, 2005</TIMEX3>
+
+An American Airlines 777 landing at Heathrow airport Boeing has secured two large orders for new aircraft.
+
+Air Canada has ordered US$ 6 billion in new airliners, while Air India has signed a deal for a further US$ 7 billion.
+
+The Air Canada deal includes firm orders for 18 777s and 14 of the new mid-size, long-range 787 Dreamliner.
+
+Options are included for 18 more 777s and 46 more 787s.
+
+</TEXT>
+</TimeML>

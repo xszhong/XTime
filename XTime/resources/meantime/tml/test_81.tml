@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_81.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2010-01-25">2010-01-25</TIMEX3></DCT>
+<TEXT>
+
+Technical problem on Airbus A400M maiden flight
+
+<TIMEX3 tid="t1" type="DATE" value="2010-01-25">January 25, 2010</TIMEX3>
+
+Airbus has confirmed that there was a software glitch on its Airbus A400M military transplort plane's maiden flight.
+
+The problem was relatively minor, and affected the software controlling its engines.
+
+The glitch was not reported when the plane made its maiden flight on <TIMEX3 tid="t2" type="DATE" value="2009-12-11">11 December</TIMEX3> --<TIMEX3 tid="t3" type="DURATION" value="P4Y">four years</TIMEX3> behind schedule and $7.3 billion over budget, due to what the manufacturers call ``political interference'' --and only became public attention <TIMEX3 tid="t4" type="DATE" value="2010-W04-WE">this weekend</TIMEX3>, when German magazine Der Spiegel cited confidential documents from engine maker Europrop in a report.
+
+The steering computer and backup system failed after <TIMEX3 tid="t5" type="DURATION" value="PT30M">thirty minutes</TIMEX3>.
+
+</TEXT>
+</TimeML>

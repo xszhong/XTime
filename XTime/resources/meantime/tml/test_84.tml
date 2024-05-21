@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_84.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2009-12-16">2009-12-16</TIMEX3></DCT>
+<TEXT>
+
+Boeing 787 ``Dreamliner'' makes maiden flight
+
+<TIMEX3 tid="t1" type="DATE" value="2009-12-16">December 16, 2009</TIMEX3>
+
+Boeing's newest commercial aircraft, the 787 ``Dreamliner'' , made its first test flight <TIMEX3 tid="t2" type="DATE" value="2009-12-15">Tuesday</TIMEX3> in Everett, Washington at <TIMEX3 tid="t3" type="TIME" value="2009-12-15T18:00Z">18:00 UTC</TIMEX3>.
+
+Boeing claims that the new 290 +seat wide-body, twin engine jetliner is more fuel efficient than previous Boeing models.
+
+The release of the ``Dreamliner'' is <TIMEX3 tid="t4" type="DURATION" value="P2.5Y">almost two and a half years</TIMEX3> behind schedule.
+
+The project has been plagued by various issues, including strike action, parts shortages and design problems.
+
+</TEXT>
+</TimeML>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_117.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2009-05-07">2009-05-07</TIMEX3></DCT>
+<TEXT>
+
+US automaker GM reports losses of $6 billion
+
+<TIMEX3 tid="t1" type="DATE" value="2009-05-07">May 07, 2009</TIMEX3>
+
+United States automobile company General Motors announced it has lost US$ 6 billion in <TIMEX3 tid="t2" type="DATE" value="2009-Q1">the first quarter of 2009</TIMEX3>, amidst heavy declines in revenues.
+
+Not including special items, the firm said it had lost a net $5.9 billion dollars, or $9.66 per share.
+
+In <TIMEX3 tid="t3" type="DATE" value="2008-Q1">the first quarter of last year</TIMEX3>, GM had reported a loss of $381 million, or $0.67 per share.
+
+Most financial analysts had forecast the automaker's losses to be over $6.7 billion, or $11.05 per share.
+
+</TEXT>
+</TimeML>

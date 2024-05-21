@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_106.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2006-08-19">2006-08-19</TIMEX3></DCT>
+<TEXT>
+
+Ford announces deep production cuts in response to growing losses
+
+<TIMEX3 tid="t1" type="DATE" value="2006-08-19">August 19, 2006</TIMEX3>
+
+Ford has announced sweeping cuts of 21%(168,000 units )in its US and Canadian production, resulting in the partial closure of ten of its plants during <TIMEX3 tid="t2" type="DATE" value="2006-Q4">the fourth quarter</TIMEX3>.
+
+The measure comes on top of existing turnaround plans announced in <TIMEX3 tid="t3" type="DATE" value="2006-01">January</TIMEX3>, in which 25,000 to 30,000 positions should be cut and 14 plants closed by <TIMEX3 tid="t4" type="DATE" value="2010">2012</TIMEX3>.
+
+Ford is the world's third-largest automaker and the U.S.'s second-largest.
+
+However it has in <TIMEX3 tid="t5" type="DURATION" value="PXY">recent years</TIMEX3> been struggling with poor profitability and shrinking market shares.
+
+</TEXT>
+</TimeML>

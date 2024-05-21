@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_34.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2007-08-10">2007-08-10</TIMEX3></DCT>
+<TEXT>
+
+Markets dragged down by credit crisis
+
+<TIMEX3 tid="t1" type="DATE" value="2007-08-10">August 10, 2007</TIMEX3>
+
+Global stock markets fell <TIMEX3 tid="t2" type="DATE" value="2007-08-10">today</TIMEX3>, in a mass sell-off stemming from the sub-prime mortgage crisis in the United States.
+
+The Dow Jones Industrial Average rebounded <TIMEX3 tid="t3" type="DATE" value="2007-08-10">late in the day</TIMEX3> after falling more than 250 points, ending <TIMEX3 tid="t4" type="DATE" value="2007-08-10">the day</TIMEX3> down about 31 points.
+
+The UK's FTSE-100 index fell 232.90 points to 6038.30, and Japan's Nikkei 225 fell 406.51 points to 16764.09.
+
+Central banks across the world are injecting funds into their banking systems to add liquidity, fearing that many financial firms with subprime ties will be insolvent.
+
+</TEXT>
+</TimeML>

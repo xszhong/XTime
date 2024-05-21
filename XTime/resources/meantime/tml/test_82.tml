@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_82.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2005-04-27">2005-04-27</TIMEX3></DCT>
+<TEXT>
+
+World's largest passenger airliner makes first flight
+
+<TIMEX3 tid="t1" type="DATE" value="2005-04-27">April 27, 2005</TIMEX3>
+
+The A380 was revealed in <TIMEX3 tid="t2" type="DATE" value="2005-01">January 2005</TIMEX3>
+
+The world's largest passenger aircraft, the Airbus A380, has made its maiden flight after lifting off from Toulouse in France.
+
+The take-off, at <TIMEX3 tid="t3" type="TIME" value="2005-04-27T08:30Z">08:30 UTC</TIMEX3>, was apparently normal and took place <TIMEX3 tid="t4" type="TIME" value="2005-04-27T08:30Z">exactly on time</TIMEX3>.
+
+The aircraft flew into clear blue skies with a flight crew of six (all wearing parachutes as a safety precaution )and twenty tonnes of test equipment on board.
+
+</TEXT>
+</TimeML>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_102.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2009-04-03">2009-04-03</TIMEX3></DCT>
+<TEXT>
+
+GM and Chrysler receive Canadian loans amid US restructuring ultimata
+
+<TIMEX3 tid="t1" type="DATE" value="2009-04-03">April 03, 2009</TIMEX3>
+
+General Motors (GM )and Chrysler will receive bridge loans from the government of Canada and the provincial government of Ontario, however no more will be forthcoming from either Canadian or US governments unless the companies can reinvent themselves.
+
+``This is a regrettable but necessary step to protect the Canadian economy.
+
+We are doing this on the assumption that we obviously can not afford either in the United States or Canada a catastrophic short-term collapse. ''
+
+said Stephen Harper, Prime Minister of Canada.
+
+</TEXT>
+</TimeML>

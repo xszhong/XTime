@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0907</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-26">1989-10-26</TIMEX3></DCT>
+<TEXT>
+Chandler Insurance Co. said it expects to report <TIMEX3 tid="t1" type="DATE" value="1989-Q3">third-quarter</TIMEX3> net income jumped 97% to $2.8 million, or 51 cents a share.
+
+In the year-earlier <TIMEX3 tid="t2" type="DATE" value="">quarter</TIMEX3>, the automobile and trucking insurer had earnings of $1.4 million, or 48 cents a share on a restated basis, on revenue of $16.5 million. In an interview, W. Brent LeGere, chairman and chief executive officer, said he expects revenue in <TIMEX3 tid="t3" type="DATE" value="1989-Q4">the latest quarter</TIMEX3> to total about $28 million. The earnings-per-share figures reflect a 25% stock dividend in <TIMEX3 tid="t4" type="DATE" value="1989-06">June 1989</TIMEX3>.
+
+Mr. LeGere attributed the earnings increase to growth in the company's longhaul trucking insurance lines and the ability to keep premium rates firm.
+</TEXT>
+</TimeML>

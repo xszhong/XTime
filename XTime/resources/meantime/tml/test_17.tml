@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_17.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2007-01-18">2007-01-18</TIMEX3></DCT>
+<TEXT>
+
+Apple Inc. doubled its profits
+
+<TIMEX3 tid="t1" type="DATE" value="2007-01-18">January 18, 2007</TIMEX3>
+
+The American computer company Apple has reached 78 percent increase in its profits during <TIMEX3 tid="t2" type="DATE" value="2006-Q4">the last quarter</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2006-Q4">which</TIMEX3> ended <TIMEX3 tid="t4" type="DATE" value="2006-12-30">December 30, 2006</TIMEX3>.
+
+This fact is explained by great demand enjoyed by Apple's iPod digital music players during the <TIMEX3 tid="t5" type="DURATION" value="PXD">Christmas and New Year sales period</TIMEX3>.
+
+As a result of successful <TIMEX3 tid="t6" type="DURATION" value="PXD">Christmas</TIMEX3> sales, <TIMEX3 tid="t7" type="DATE" value="FY2007">the very beginning of the financial year</TIMEX3> marked a double increase of the Apple's sales if compared to the $565 million profit reaped during <TIMEX3 tid="t8" type="DATE" value="FY2006">the same period of the last year</TIMEX3>.
+
+The company gained the record-breaking $1 billion.
+
+</TEXT>
+</TimeML>

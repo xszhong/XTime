@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0674</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-30">1989-10-30</TIMEX3></DCT>
+<TEXT>
+Jim Pattison Industries Ltd., one of a group of closely held companies owned by entrepreneur James Pattison, said it "intends to seek control" of 30%-owned Innopac Inc., a Toronto packaging concern.
+
+Jim Pattison Industries, a holding company with annual sales of about C$1.9 billion, largely from car dealerships and grocery stores, didn't elaborate on the statement, and a company official declined further comment.
+
+The company said it <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">currently</TIMEX3> holds about 4.2 million of Innopac's 13.8 million common shares outstanding, which have an aggregate market value of about 137.8 million Canadian dollars (US$117.3 million).
+
+Separately, Innopac reported a <TIMEX3 tid="t2" type="DATE" value="1989-Q4">fourth-quarter</TIMEX3> loss of about C$2.6 million, or 18 Canadian cents a share, reflecting inventory write-downs. The results made net income for <TIMEX3 tid="t3" type="DATE" value="1989">the year</TIMEX3> ended <TIMEX3 tid="t4" type="DATE" value="1989-08-31">Aug. 31</TIMEX3> C$2.7 million, or 20 Canadian cents a share, down from C$9.7 million, or 70 Canadian cents a share <TIMEX3 tid="t5" type="DATE" value="1988">last year</TIMEX3>. Revenue was C$291.6 million, up from C$252 million in <TIMEX3 tid="t6" type="DATE" value="1988">1988</TIMEX3>.
+
+Martin Fabi, Innopac's president and chief executive, said Innopac viewed Mr. Pattison's decision to seek control as a "very positive" move. "I'm happy that he feels positively about our company," he said. Mr. Fabi wouldn't say directly whether Mr. Pattison has disclosed potential terms for his planned bid for control.
+
+Among other things, Innopac is involved in recycling polystyrene foam products that are often used by fast food chains, such as McDonald's Corp., for food packaging. A joint venture involving units of Innopac and Mobil Corp. earlier <TIMEX3 tid="t7" type="DATE" value="1988">this year</TIMEX3> opened the first U.S. polystyrene recycling plant, in Leominster, Mass.
+</TEXT>
+</TimeML>

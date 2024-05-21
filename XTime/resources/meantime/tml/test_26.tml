@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_26.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2010-06-16">2010-06-16</TIMEX3></DCT>
+<TEXT>
+
+Apple swamped by iPhone 4 pre-orders
+
+<TIMEX3 tid="t1" type="DATE" value="2010-06-16">June 16, 2010</TIMEX3>
+
+Pre-orders of the <TIMEX3 tid="t2" type="DATE" value="PAST_REF">recently</TIMEX3> announced iPhone 4 began <TIMEX3 tid="t3" type="DATE" value="2010-06-15">Tuesday</TIMEX3>, overwhelming Apple and AT&amp;T.
+
+Many buyers experienced issues connecting to Apple's website and customer service line.
+
+Some had difficulty finishing their orders online, while others endured long waits at Apple's retail stores due to the online issues.
+
+Some customers reported that Apple had set a recording on their phone lines telling people to call back at <TIMEX3 tid="t4" type="DATE" value="XXXX-XX-XX">a later time</TIMEX3>, and others even tweeted about their experience.
+
+</TEXT>
+</TimeML>

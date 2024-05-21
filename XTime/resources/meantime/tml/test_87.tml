@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_87.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2008-05-24">2008-05-24</TIMEX3></DCT>
+<TEXT>
+
+Boeing pushes back 737 replacement development
+
+<TIMEX3 tid="t1" type="DATE" value="2008-05-24">May 24, 2008</TIMEX3>
+
+United States airframer Boeing has announced that development of a replacement for their 737 narrowbody airliner, begun <TIMEX3 tid="t2" type="DURATION" value="P2Y">two years</TIMEX3> ago, has been pushed back <TIMEX3 tid="t3" type="DURATION" value="PXY">several years</TIMEX3>, Boeing saying that further advancement of technology is required.
+
+Spokeswoman Sandy Angers said that that the team formed to look at the development had been merged into the parent product development team and would cease looking at specific designs.
+
+Boeing say airlines demand performance improvements of 15-20% are required if a new airliner is to be commercially viable.
+
+``We've reduced our airplane-design effort and are focusing more on the technology breakthroughs, '' said Angers.
+
+</TEXT>
+</TimeML>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_31.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2009-03-05">2009-03-05</TIMEX3></DCT>
+<TEXT>
+
+US stock markets reach <TIMEX3 tid="t1" type="DURATION" value="P12Y">12-year</TIMEX3> lows
+
+<TIMEX3 tid="t2" type="DATE" value="2009-03-05">March 05, 2009</TIMEX3>
+
+US stock markets dropped to <TIMEX3 tid="t3" type="DURATION" value="P12Y">twelve-year</TIMEX3> lows on <TIMEX3 tid="t4" type="DATE" value="2009-03-05">Thursday</TIMEX3>, amidst falling confidence in the financial sector and worries over whether the US automobile manufacturer General Motors will be able to keep operating.
+
+The Dow Jones Industrial Average dropped by 4.08%, or 280.52 points, at the closing bell, reaching a level of 6595.32, a new <TIMEX3 tid="t5" type="DURATION" value="P12Y">12-year</TIMEX3> low.
+
+The Nasdaq Composite lost 54.15 points, or 4%, to 1299.59, while the Standard &amp; Poor's 500 plunged by 30.27 points, or 4.25%, closing at 682.60.
+
+Every stock in the Dow Jones, other than Wal-Mart, either lost ground or remained even, and all stocks in the S&amp;P 500 index lost ground.
+
+</TEXT>
+</TimeML>

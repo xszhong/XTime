@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_108.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2009-02-03">2009-02-03</TIMEX3></DCT>
+<TEXT>
+
+GM, Chrysler offer buyouts and early retirement to workers
+
+<TIMEX3 tid="t1" type="DATE" value="2009-02-03">February 03, 2009</TIMEX3>
+
+General Motors (GM )and Chrysler have both begun to offer layoff packages to their workforces.
+
+The automobile manufacturers have been hard hit in the recent economic downturn and have been forced to seek federal aid from the U.S. government.
+
+Reports say that GM's package includes a $20,000 cash payment and a $25,000 new vehicle voucher.
+
+Chrysler will offer a $25,000 vehicle voucher and $50,000 with healthcare and $75,000 without.
+
+</TEXT>
+</TimeML>

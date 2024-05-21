@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_18.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2009-06-09">2009-06-09</TIMEX3></DCT>
+<TEXT>
+
+Apple launches new, faster iPhone
+
+<TIMEX3 tid="t1" type="DATE" value="2009-06-09">June 9, 2009</TIMEX3>
+
+Apple Computer <TIMEX3 tid="t2" type="DATE" value="2009-06-09">today</TIMEX3> announced its latest iteration of their popular iPhone, the iPhone 3GS.
+
+The new hardware, revealed at the company's annual Worldwide Developers Conference drew attention from the media and iPhone owners alike.
+
+Features new to the iPhone include an upgraded camera, which also allows users to record video and sound, as well as "voice control ", which will allow users to control most features of the iPhone with their voice.
+
+The new phone will also come pre-loaded with the new iPhone 3.0 software, which will be available on <TIMEX3 tid="t3" type="DATE" value="2009-06-17">June 17</TIMEX3>, <TIMEX3 tid="t4" type="DURATION" value="P2D">two days</TIMEX3> before the phone launches.
+
+</TEXT>
+</TimeML>

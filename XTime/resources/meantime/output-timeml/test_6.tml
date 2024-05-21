@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_6.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2005-09-07">2005-09-07</TIMEX3></DCT>
+<TEXT>
+
+Apple unveils iPod nano
+
+<TIMEX3 tid="t1" type="DATE" value="2005-09-07">September 7, 2005</TIMEX3>
+
+Apple <TIMEX3 tid="t2" type="DATE" value="2005-09-07">today</TIMEX3> unveiled its latest addition to the iPod line, the iPod nano.
+
+The announcement came <TIMEX3 tid="t3" type="DATE" value="2005-09-07">today</TIMEX3> at a special music event hosted by Apple, held in the Moscone West Convention Center in San Francisco.
+
+The iPod Nano comes in two colors, white and black, as well as two sizes, a 2GB and a 4GB, capable of holding 500 and 1,000 songs and will cost $199 and $249 USD respectively.
+
+The iPod nano is the second model of the iPod family to utilize flash memory, after the Shuffle was introduced in <TIMEX3 tid="t4" type="DATE" value="2006-01">January</TIMEX3>.
+
+</TEXT>
+</TimeML>

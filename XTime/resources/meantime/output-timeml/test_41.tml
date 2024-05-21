@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_41.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2007-03-13">2007-03-13</TIMEX3></DCT>
+<TEXT>
+
+Sub-prime lenders send jitters through global markets
+
+<TIMEX3 tid="t1" type="DATE" value="2007-03-13">March 13, 2007</TIMEX3>
+
+Just <TIMEX3 tid="t2" type="DURATION" value="P2W">two weeks</TIMEX3> after China sent global markets into a tumble, growing worries about sub-prime mortgage lenders in the United States are sending jitters through stock exchanges around the globe.
+
+The three major US stock market indices each fell two percent from <TIMEX3 tid="t3" type="DATE" value="2007-03-12">Monday</TIMEX3>'s closing price, marking the second-biggest loss of <TIMEX3 tid="t4" type="DATE" value="2007">2007</TIMEX3>.
+
+London's FTSE 100, Paris' CAC 40 and Frankfurt's DAX 30 indices each closed down more than 1 percent.
+
+As the Mortgage Bankers Association reported that late payments on mortgages and home foreclosures in the US homes rose in <TIMEX3 tid="t5" type="DATE" value="2007-Q4">the fourth quarter</TIMEX3> to their highest level in <TIMEX3 tid="t6" type="DURATION" value="PXY">years</TIMEX3>, investors are concerned that not only US banks but also multi-national banks around the globe could have exposure.
+
+</TEXT>
+</TimeML>

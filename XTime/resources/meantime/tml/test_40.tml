@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_40.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2009-02-20">2009-02-20</TIMEX3></DCT>
+<TEXT>
+
+Dow Jones Industrial Average closes at lowest level in <TIMEX3 tid="t1" type="DATE" value="P6Y">six years</TIMEX3>
+
+<TIMEX3 tid="t2" type="DATE" value="2009-02-20">February 20, 2009</TIMEX3>
+
+The Dow Jones Industrial Average closed at its lowest level in <TIMEX3 tid="t3" type="DATE" value="P6Y">over six years</TIMEX3> on <TIMEX3 tid="t4" type="DATE" value="2009-02-19">Thursday</TIMEX3>, having lost 1.16%, or 89.68 points, bringing it to a level of 7,465.95.
+
+It had, at <TIMEX3 tid="t5" type="DATE" value="PAST_REF">one point</TIMEX3>, set <TIMEX3 tid="t6" type="DATE" value="P1D">an intraday</TIMEX3> bear market low of 7,447.55.
+
+It was the lowest ending for the index since <TIMEX3 tid="t7" type="DATE" value="2002-10-09">October 9, 2002</TIMEX3>.
+
+The Dow has fallen almost fifteen percent since <TIMEX3 tid="t8" type="DATE" value="2009-01-01">the start of this year</TIMEX3>.
+
+</TEXT>
+</TimeML>

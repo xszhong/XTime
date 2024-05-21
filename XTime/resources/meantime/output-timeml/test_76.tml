@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_76.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2005-01-18">2005-01-18</TIMEX3></DCT>
+<TEXT>
+
+Airbus launches world's largest passenger plane
+
+<TIMEX3 tid="t1" type="DATE" value="2005-01-18">January 18, 2005</TIMEX3>
+
+In a ceremony attended by several European political leaders and 5,000 VIP guests, Airbus unveiled plans for the A380, a twin-deck aircraft that can carry up to 840 people in all-economy class (550 for a Boeing 747 ), or 555 people in typical three mixed classes layout.
+
+The new aircraft will take the world's -largest title away from rival Boeing's 747.
+
+Boeing's upcoming new design, the 7e7, does not attempt to compete directly with the A380 but instead is aimed at a more efficient and comfortable flight at 200-250 seats.
+
+Airbus chief executive Noel Forgeard stated that he expected sales of the aircraft to exceed the 250 required for the project to break even.
+
+</TEXT>
+</TimeML>

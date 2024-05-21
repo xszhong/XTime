@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_114.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2007-02-09">2007-02-09</TIMEX3></DCT>
+<TEXT>
+
+Ford Taurus to be revived
+
+<TIMEX3 tid="t1" type="DATE" value="2007-02-09">February 09, 2007</TIMEX3>
+
+Ford Motor Company CEO Alan Mulally has reported that Ford will rename the Ford Five Hundred to the Taurus for the <TIMEX3 tid="t2" type="DATE" value="2008">2008</TIMEX3> model year, when a facelifted model is expected to be launched to improve the lackluster sales of the outgoing model.
+
+Mulally says that Ford's decision to name all their cars with the letter F was a lackluster move, and makes their names easily forgettable.
+
+As a result, Mulally plans on reviving many respected Ford nameplates, the Taurus being one of them, and the Falcon possibly in <TIMEX3 tid="t3" type="DATE" value="FUTURE_REF">the future</TIMEX3>.
+
+The Ford Taurus was originally introduced in <TIMEX3 tid="t4" type="DATE" value="1986">1986</TIMEX3>, and was a revolutionary car that rewrote the rules for creating a sedan, and pushed the other American automakers to follow suit, leading to a design revolution that completely rid Detroit of the ``boxy'' cars of the <TIMEX3 tid="t5" type="DATE" value="197">70s</TIMEX3> and <TIMEX3 tid="t6" type="DATE" value="198">80s</TIMEX3>.
+
+</TEXT>
+</TimeML>

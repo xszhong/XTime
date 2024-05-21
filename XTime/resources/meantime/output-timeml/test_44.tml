@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_44.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2008-10-06">2008-10-06</TIMEX3></DCT>
+<TEXT>
+
+Worldwide markets fall precipitously
+
+<TIMEX3 tid="t1" type="DATE" value="2008-10-06">October 06, 2008</TIMEX3>
+
+Stock markets around the world have fallen dramatically <TIMEX3 tid="t2" type="DATE" value="2008-10-06">today</TIMEX3>.
+
+This is following the ongoing events in the financial world, including the US Government's $700 billion bail out of the financial sector.
+
+As of <TIMEX3 tid="t3" type="TIME" value="2008-10-06T14:48">14:48 UTC</TIMEX3>, the primary UK index, the FTSE 100, dropped in value by 6.50%(323.65 points )to a point even further below the 5000 mark at 4656.60.
+
+The Dow Jones, was down 3.76% at <TIMEX3 tid="t4" type="TIME" value="2008-10-06T16:08">16:08 UTC</TIMEX3>, a slight increase from earlier <TIMEX3 tid="t5" type="DATE" value="2008-10-06">today</TIMEX3>.
+
+</TEXT>
+</TimeML>

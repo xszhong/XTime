@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_29.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2006-04-05">2006-04-05</TIMEX3></DCT>
+<TEXT>
+
+Apple releases program to limit iPod volume
+
+<TIMEX3 tid="t1" type="DATE" value="2006-04-05">April 5, 2006</TIMEX3>
+
+Apple has released an application that limits the volume produced from its iPod portable music players.
+
+The software update, iPod Software 1.1.1, works with the iPod Nano and the Video version.
+
+Apple released the program in response to complaints that it had not taken necessary measures to prevent hearing loss in iPod users.
+
+In California, a class-action lawsuit was filed against Apple in <TIMEX3 tid="t2" type="DATE" value="2006-01">January</TIMEX3> over claims of hearing loss from iPod use.
+
+</TEXT>
+</TimeML>

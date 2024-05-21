@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_49.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2008-10-07">2008-10-07</TIMEX3></DCT>
+<TEXT>
+
+Stock markets worldwide continue to fall
+
+<TIMEX3 tid="t1" type="DATE" value="2008-10-07">October 7, 2008</TIMEX3>
+
+Stock markets around the world continued to fall dramatically <TIMEX3 tid="t2" type="DATE" value="2008-10-07">today</TIMEX3>.
+
+This is following the ongoing events in the financial world, including the US Government's $700 billion bail out of the financial sector.
+
+As of <TIMEX3 tid="t3" type="TIME" value="2008-10-07T18:00Z">18:00 UTC</TIMEX3>, the primary UK index, the FTSE 100, was one of the few indexes to increase in value.
+
+It went up by 0.16%(16.03 points ), but stayed below 5000 mark at 4605.22.
+
+</TEXT>
+</TimeML>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_4.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2011-08-25">2011-08-25</TIMEX3></DCT>
+<TEXT>
+
+Apple executive Steve Jobs resigns
+
+<TIMEX3 tid="t1" type="DATE" value="2011-08-25">August 25, 2011</TIMEX3>
+
+Steve Jobs, founder of Apple, has chosen to step down from his post as CEO of the company.
+
+The former Chief Operating Officer, Tim Cook will be succeeding Jobs as CEO.
+
+Jobs resigned in a letter to Apple's board of directors stating, "I have always said if there ever came <TIMEX3 tid="t2" type="DATE" value="FUTURE_REF">a day</TIMEX3> when I could no longer meet my duties and expectations as Apple's C.E.O., I would be the first to let you know.
+
+Unfortunately, <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">that day</TIMEX3> has come. "
+
+</TEXT>
+</TimeML>

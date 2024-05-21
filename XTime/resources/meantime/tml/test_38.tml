@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_38.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2009-03-13">2009-03-13</TIMEX3></DCT>
+<TEXT>
+
+US stock markets have their best <TIMEX3 tid="t1" type="DATE" value="2009-W11">week</TIMEX3> since <TIMEX3 tid="t2" type="DATE" value="2008-11">November</TIMEX3>
+
+<TIMEX3 tid="t3" type="DATE" value="2009-03-13">March 13, 2009</TIMEX3>
+
+Wall Street had its best finish since <TIMEX3 tid="t4" type="DATE" value="2008-11">November 2008</TIMEX3> after a <TIMEX3 tid="t5" type="DURATION" value="P4D">four day</TIMEX3> rally with the stock market's indexes seeing their best <TIMEX3 tid="t6" type="SET" value="P1W">weekly</TIMEX3> gain in <TIMEX3 tid="t7" type="DURATION" value="P5M">nearly five months</TIMEX3>.
+
+The major indicators in the NYSE had a gain of around 10 percent.
+
+This was mainly due to bank shares bouncing and alleviating fears about the economy.
+
+The Dow Jones industrial average (INDU )finished on 7223.98, an increase of 54 points from <TIMEX3 tid="t8" type="DATE" value="2009-03-12">March 12 2009</TIMEX3>.
+
+</TEXT>
+</TimeML>

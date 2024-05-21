@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_68.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2007-03-19">2007-03-19</TIMEX3></DCT>
+<TEXT>
+
+A380 makes maiden flight to US
+
+<TIMEX3 tid="t1" type="DATE" value="2007-03-19">March 19, 2007</TIMEX3>
+
+The Airbus A380, the world's largest passenger plane, was set to land in the United States of America on <TIMEX3 tid="t2" type="DATE" value="2007-03-19">Monday</TIMEX3> after a test flight.
+
+One of the A380s is flying from Frankfurt to Chicago via New York; the airplane will be carrying about 500 people.
+
+It is being billed as the first time it has carried a near-normal number of passengers, though most will be staff of Airbus and German airline Lufthansa.
+
+A second A380 is also travelling to the U.S. on <TIMEX3 tid="t3" type="DATE" value="2007-03-19">Monday</TIMEX3>, but without passengers.
+
+</TEXT>
+</TimeML>

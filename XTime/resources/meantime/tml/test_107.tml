@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_107.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2007-09-08">2007-09-08</TIMEX3></DCT>
+<TEXT>
+
+Ford offers US$ 78 million for Romanian auto plant
+
+<TIMEX3 tid="t1" type="DATE" value="2007-09-08">September 08, 2007</TIMEX3>
+
+Ford Motor Company, the U.S. car maker, will reportedly pay $57 million (US$ 78 million )for a 72.4 percent stake in the Romanian assembly plant Automobile Craiova, a Romanian official said <TIMEX3 tid="t2" type="DATE" value="2007-09-07">Friday</TIMEX3>.
+
+``The offer of Ford Motor Company for a 72.4 percent stake is $4.1556 per share or $57 million overall, '' said Sebastian Vladescu, head of the State Property Agency (AVAS ), after opening Ford's improved offer.
+
+Vladescu added that the contract may be signed on <TIMEX3 tid="t3" type="DATE" value="2007-09-12">September 12</TIMEX3>, during the auto show in Frankfurt.
+
+The Romanian government bought back the Craiova-based car maker from Daewoo Motors, in <TIMEX3 tid="t4" type="DATE" value="2006">late 2006</TIMEX3> for US$ 51 million.
+
+</TEXT>
+</TimeML>

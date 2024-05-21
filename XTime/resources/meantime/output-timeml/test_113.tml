@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_113.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2009-05-01">2009-05-01</TIMEX3></DCT>
+<TEXT>
+
+Chrysler files for bankruptcy, Fiat Group SpA to run company
+
+<TIMEX3 tid="t1" type="DATE" value="2009-05-01">May 01, 2009</TIMEX3>
+
+The American auto company Chrysler filed for bankruptcy <TIMEX3 tid="t2" type="DATE" value="2009-04-30">Thursday</TIMEX3>, however a deal with European auto maker Fiat went through.
+
+The emerging Chrysler will be owned 55 percent by the United Auto Workers, eight percent by the United States Government, two percent by the Canadian Government and Fiat would begin with a 20 percent share.
+
+Chrysler Chief Executive Robert Nardelli will step down when the bankruptcy proceedings are finalized.
+
+Initially, the Italian company, Fiat, will appoint three members on the emerging Chrysler's new board, and the United States government will appoint six.
+
+</TEXT>
+</TimeML>

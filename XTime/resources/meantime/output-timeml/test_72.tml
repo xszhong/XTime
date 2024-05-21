@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_72.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2008-03-27">2008-03-27</TIMEX3></DCT>
+<TEXT>
+
+Airbus parent EADS wins #13 billion UK RAF airtanker contract
+
+<TIMEX3 tid="t1" type="DATE" value="2008-03-27">March 27, 2008</TIMEX3>
+
+European Aeronautic Defence &amp; Space NV (EADS ), the parent company of European airframer Airbus, has won a #13 billion contract to supply the United Kingdom's Royal Air Force (RAF )with aerial refueling tankers to replace the nation's current ageing fleet.
+
+AirTanker Ltd., an EADS-led consortium, have signed a <TIMEX3 tid="t2" type="DURATION" value="P27Y">27-year</TIMEX3> contract with the Defense Ministry to supply 14 new Airbus A330-200 passenger airliner converted for the task.
+
+They will be owned by AirTanker, who retains commercial leasing rights to five which can carry 290 passengers plus cargo, but will fly in RAF livery.
+
+They replace existing Lockheed Tristar and Vickers VC-10 aircraft.
+
+</TEXT>
+</TimeML>

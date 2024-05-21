@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0558</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-30">1989-10-30</TIMEX3></DCT>
+<TEXT>
+Aetna Life amp Casualty Co.'s <TIMEX3 tid="t1" type="DATE" value="1989-Q3">third-quarter</TIMEX3> net income fell 22% to $182.6 million, or $1.63 a share, reflecting the damages from Hurricane Hugo and lower results for some of the company's major divisions.
+
+Catastrophe losses reduced Aetna's net income by $50 million, including $36 million from Hugo. <TIMEX3 tid="t2" type="DATE" value="1988">Last year</TIMEX3> catastrophe losses totaled $5 million, when net was $235.5 million, or $2.07 a share. The year-earlier results have been restated to reflect an accounting change.
+
+The insurer has started processing claims from the Northern California earthquake <TIMEX3 tid="t3" type="DATE" value="1989">nearly two weeks ago</TIMEX3>. But because these claims are more difficult to evaluate and have been coming in more slowly, the company has no estimate of the impact of the earthquake on <TIMEX3 tid="t4" type="DATE" value="1989-Q4">fourth-quarter</TIMEX3> results.
+
+In New York Stock Exchange composite trading <TIMEX3 tid="t5" type="DATE" value="1989-11-03-WXX-5">Friday</TIMEX3>, Aetna closed at $60, down 50 cents.
+
+In <TIMEX3 tid="t6" type="DATE" value="1989-Q4">the latest quarter</TIMEX3>, Aetna had a $23 million loss on its auto/homeowners line, compared with earnings of $33 million <TIMEX3 tid="t7" type="DATE" value="1988">last year</TIMEX3>. Profit for its commercial insurance division fell 30% to $59 million, reflecting higher catastrophe losses and the price war in the property/casualty market for <TIMEX3 tid="t8" type="DURATION" value="P3Y">nearly three years</TIMEX3>.
+
+However, Aetna's employee benefits division, which includes its group health insurance operations, posted a 34% profit gain to $106 million.
+
+<TIMEX3 tid="t9" type="DATE" value="1989-Qnull">Third-quarter</TIMEX3> results included net realized capital gains of $48 million, which included $27 million from the sale of Federated Investors in <TIMEX3 tid="t10" type="DATE" value="1989-08">August</TIMEX3> and a $15 million tax credit.
+
+In <TIMEX3 tid="t11" type="DURATION" value="P9M">the nine months</TIMEX3>, net rose 4.3% to $525.8 million or $4.67 a share, from $504.2 million, or $4.41 a share, <TIMEX3 tid="t12" type="DATE" value="1988">last year</TIMEX3>.
+</TEXT>
+</TimeML>

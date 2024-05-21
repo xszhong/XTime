@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_111.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2009-02-03">2009-02-03</TIMEX3></DCT>
+<TEXT>
+
+Automobile sales in the United States down sharply
+
+<TIMEX3 tid="t1" type="DATE" value="2009-02-03">February 03, 2009</TIMEX3>
+
+Sales of automobiles in the United States fell as much as 35% in <TIMEX3 tid="t2" type="DATE" value="2009-01">January</TIMEX3>, compared to the same <TIMEX3 tid="t3" type="DATE" value="2008">month a year ago</TIMEX3>, as manufacturers reported their <TIMEX3 tid="t4" type="DATE" value="2009-01">January</TIMEX3> sales.
+
+Ford Motor Company sales dropped 42% <TIMEX3 tid="t5" type="DATE" value="2009-01">last month</TIMEX3> from <TIMEX3 tid="t6" type="DATE" value="2008">the previous year</TIMEX3>.
+
+General Motors reported a 49% decline.
+
+Chrysler was hardest hit among the domestically owned manufacturers with a plunge of 55%.
+
+</TEXT>
+</TimeML>

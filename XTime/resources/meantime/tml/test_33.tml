@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_33.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2008-10-10">2008-10-10</TIMEX3></DCT>
+<TEXT>
+
+Dow Jones recovers hundreds of points, before losing them in <TIMEX3 tid="t1" type="DURATION" value="PTXM">minutes</TIMEX3>
+
+<TIMEX3 tid="t2" type="DATE" value="2008-10-10">October 10, 2008</TIMEX3>
+
+Following a large fall at <TIMEX3 tid="t3" type="DATE" value="2008-10-10">the start of the day</TIMEX3>, the Dow Jones Industrial Average has recovered by hundreds of points, with it climbing over 250 points again before dropping off to down 100 in just <TIMEX3 tid="t4" type="DURATION" value="PTXM">minutes</TIMEX3>.
+
+After going to down 100, it climbed to 12 up then three down.
+
+Following going three down, it kept going up and down between slightly up and below zero.
+
+Following this, the market went to sixty down, before recovering slightly to -36 .
+
+</TEXT>
+</TimeML>

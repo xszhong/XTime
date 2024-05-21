@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_83.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2009-06-18">2009-06-18</TIMEX3></DCT>
+<TEXT>
+
+China Eastern Airlines to purchase twenty new Airbus A320 jets
+
+<TIMEX3 tid="t1" type="DATE" value="2009-06-18">June 18, 2009</TIMEX3>
+
+China Eastern Airlines stated on <TIMEX3 tid="t2" type="DATE" value="2009-06-18">Thursday</TIMEX3> that it had signed a contract to purchase a score of Airbus A320 passenger jets for 9.9 billion yuan (about US$ 1.4 billion ).
+
+The airline, which is the third largest in China, signed the agreement in Paris on <TIMEX3 tid="t3" type="DATE" value="2009-06-15">June 15</TIMEX3>.
+
+The company said that the planes would meet additional demand for domestic passenger routes.
+
+The deal was approved unanimously by China Eastern's board of directors.
+
+</TEXT>
+</TimeML>

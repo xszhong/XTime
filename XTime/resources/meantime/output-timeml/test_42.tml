@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_42.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2008-09-20">2008-09-20</TIMEX3></DCT>
+<TEXT>
+
+Shares worldwide surge due to US government plan
+
+<TIMEX3 tid="t1" type="DATE" value="2008-09-20">September 20, 2008</TIMEX3>
+
+Stock markets around the world, particularly those in the United Kingdom, have increased dramatically <TIMEX3 tid="t2" type="DATE" value="2008-09-20">today</TIMEX3>.
+
+This is due to the ongoing events in the financial world, including the United States government's announcement that it would buy billions of dollars of bad loans from US banks.
+
+The primary UK index, the FTSE 100, rose in value by 8.04%, which is 392.50 points, to above the 5000 mark at 5272.50.
+
+The Dow Jones, was up 3.10% at <TIMEX3 tid="t3" type="TIME" value="2008-09-20T14:58">14:58 UTC</TIMEX3>, an increase of 330.89.
+
+</TEXT>
+</TimeML>

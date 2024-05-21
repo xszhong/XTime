@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_100.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2013-12-10">2013-12-10</TIMEX3></DCT>
+<TEXT>
+
+Mary Barra appointed as General Motors chief
+
+<TIMEX3 tid="t1" type="DATE" value="2013-12-10">December 10, 2013</TIMEX3>
+
+The United States's largest car manufacturer General Motors <TIMEX3 tid="t2" type="DATE" value="2013-12-10">today</TIMEX3> named Mary Barra as its new chief executive.
+
+Barra, 51, will be the first woman to lead a firm in the American auto industry.
+
+She has been with General Motors for <TIMEX3 tid="t3" type="DURATION" value="P33Y">33 years</TIMEX3>, and is <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">currently</TIMEX3> the global head of product development.
+
+She said in a statement :``With an amazing portfolio of cars and trucks and the strongest financial performance in our recent history, this is an exciting time at <TIMEX3 tid="t5" type="DATE" value="2013-12-10">today</TIMEX3>'s GM.
+
+</TEXT>
+</TimeML>

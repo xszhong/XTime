@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>VOA19980501.1800.0355</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="19980501">19980501</TIMEX3></DCT>
+<TEXT>
+Israeli Prime Minister Benjamin Netanyahu says considerable gaps remain between Israeli and Palestinian positions before <TIMEX3 tid="t1" type="DATE" value="1998-05-W19">next week</TIMEX3>'s talks in London. He and Palestinian leader Yasser Arafat meet separately <TIMEX3 tid="t2" type="DATE" value="1998-04-27-WXX-1">Monday</TIMEX3> with US Secretary of State Madeleine Albright. At a news conference with US Vice President Al Gore in Jerusalem, Mr. Netanyahu suggested Israel might be willing to move a little on issues holding up peace, but he said he expects an equal effort from the Palestinians.
+
+If Israel is asked to uh stretch itself on matters that are vital to its security concerns, then we must see an equal effort on the other side.
+
+Mr. Gore called on Israel to continue taking risks for peace.
+</TEXT>
+</TimeML>

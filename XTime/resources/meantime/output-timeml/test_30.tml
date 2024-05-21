@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_30.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2010-08-09">2010-08-09</TIMEX3></DCT>
+<TEXT>
+
+Apple executive leaves company after iPhone 4 antenna issues
+
+<TIMEX3 tid="t1" type="DATE" value="2010-08-09">August 9, 2010</TIMEX3>
+
+Mark Papermaster, formerly an Apple Inc. executive overseeing hardware engineering for the company's iPhone, is stepping down from his post.
+
+The move came after Apple received criticism <TIMEX3 tid="t2" type="DATE" value="2010-07">last month</TIMEX3> for the placement of the antenna on their most recent iPhone model, iPhone 4.
+
+Apple confirmed that Papermaster, 49, had left the company, but did not say whether he decided to leave or was forced out.
+
+Papermaster did not comment on the situation.
+
+</TEXT>
+</TimeML>

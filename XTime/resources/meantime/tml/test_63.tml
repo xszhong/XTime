@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_63.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2006-05-29">2006-05-29</TIMEX3></DCT>
+<TEXT>
+
+Boeing delivers final 717 to AirTran, ending <TIMEX3 tid="t1" type="DATE" value="PAST_REF">Douglas era</TIMEX3>
+
+<TIMEX3 tid="t2" type="DATE" value="2006-05-29">May 29, 2006</TIMEX3>
+
+Boeing Commercial Airplanes on <TIMEX3 tid="t3" type="DATE" value="2006-05-23">Tuesday</TIMEX3> delivered the final 717 jet built to AirTran Airways in ceremonies in Long Beach, California, bringing production of McDonnell Douglas jets to an end.
+
+``AirTran Airways would like to thank the many Boeing employees for their hard work and dedication <TIMEX3 tid="t4" type="DURATION" value="PXY">over the years</TIMEX3> and enabling us to build a world-class aircraft fleet that is unparalleled in the aviation industry, '' said Joe Leonard, Chairman and Chief Operating Officer of AirTran Airways.
+
+The final Boeing 717 was the 15,599 th plane built by the Long Beach plant, the original home of Douglas Aircraft and McDonnell Douglas.
+
+It also marked the end of the popular DC-9 family of jets, which has sold over 2,400 units over its <TIMEX3 tid="t5" type="DURATION" value="P41Y">41-year history</TIMEX3>.
+
+</TEXT>
+</TimeML>

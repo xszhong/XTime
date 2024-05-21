@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>PRI19980205.2000.1998</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="19980205">19980205</TIMEX3></DCT>
+<TEXT>
+Thousands of people in Germany have been demonstrating <TIMEX3 tid="t1" type="DATE" value="1998-02-05">today</TIMEX3> against the high level of unemployment in the country. Latest figures show a sharp rise, with nearly five million Germans out of work. Caroline Wyatt reports.
+
+Chanting Helmut Kohl must go the unemployed took to the streets of the German capital, Berlin, mirroring protests around the country. Joblessness is <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">now</TIMEX3> at its highest level in Germany since the second world war. With the general election due <TIMEX3 tid="t3" type="DATE" value="1998-09">this September</TIMEX3>, record figures couldn't have come at a worst time for Chancellor Kohl. His promise to half unemployment by <TIMEX3 tid="t4" type="DATE" value="1998">the year two thousand</TIMEX3> has <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">now</TIMEX3> been abandoned. And the German electorate appears increasingly eager to dispense with the services of Europe's longest serving leader. Caroline Wyatt, BBC news, Bonn.
+</TEXT>
+</TimeML>

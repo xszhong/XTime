@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_64.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2007-06-09">2007-06-09</TIMEX3></DCT>
+<TEXT>
+
+Aer Lingus buys twelve new long-haul Airbus jets
+
+<TIMEX3 tid="t1" type="DATE" value="2007-06-09">June 09, 2007</TIMEX3>
+
+Irish national airline Aer Lingus have purchased 12 new long-haul Airbus aircraft as a means of modernising it's long-haul fleet and improving it's transatlantic network.
+
+Under the agreement, Aer Lingus Group PLC said it will receive six new A330-300E aircraft from <TIMEX3 tid="t2" type="DATE" value="2009">2009</TIMEX3> to <TIMEX3 tid="t3" type="DATE" value="2011">2011</TIMEX3>, then between <TIMEX3 tid="t4" type="DATE" value="2014">2014</TIMEX3> and <TIMEX3 tid="t5" type="DATE" value="2016">2016</TIMEX3> it will take delivery of six new A350 XWB (Extra Wide Body )aircraft, a new design <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">currently</TIMEX3> under development by Airbus.
+
+Aer Lingus also have options of six more A350s to exercise by <TIMEX3 tid="t7" type="DATE" value="2018">2018</TIMEX3>.
+
+Aer Lingus already operates an all-Airbus fleet consisting of 30 short-haul aircraft (24 A320s and 6 A321s )and eight long-haul A330s, and had made the purchase of new long-haul airliners a top priority since the formerly state-owned company was floated on British and Irish stock markets in <TIMEX3 tid="t8" type="DATE" value="2006-09">September 2006</TIMEX3>.
+
+</TEXT>
+</TimeML>

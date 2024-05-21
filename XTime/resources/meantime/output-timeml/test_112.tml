@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_112.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2009-06-04">2009-06-04</TIMEX3></DCT>
+<TEXT>
+
+CEO of GM outlines plan for ``New GM'' after auto company declared bankruptcy
+
+<TIMEX3 tid="t1" type="DATE" value="2009-06-04">June 04, 2009</TIMEX3>
+
+In a New York press conference at <TIMEX3 tid="t2" type="TIME" value="2009-06-01T16:15">16:15 UTC, June 1st</TIMEX3>, Fritz Henderson, the Chief Executive Officer of General Motors, which filed for bankruptcy and Chapter 11 protection from its creditors earlier <TIMEX3 tid="t3" type="DATE" value="2009-06-04">today</TIMEX3>, outlined a plan for what he called a ``New GM'' .
+
+Speaking to the press under safe harbor provisions of U.S. law, Henderson described the events of <TIMEX3 tid="t4" type="DATE" value="2009-06-04">today</TIMEX3> as a ``defining <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">moment</TIMEX3>'' in the history of General Motors.
+
+Speaking to the public he said that ``The GM that let you down is history, '' and described a ``New GM'' that he expected to result from the bankruptcy process.
+
+Henderson stated that he envisioned the bankruptcy process would take between <TIMEX3 tid="t6" type="DURATION" value="P60D">60</TIMEX3> and <TIMEX3 tid="t7" type="DURATION" value="P90D">90 days</TIMEX3>.
+
+</TEXT>
+</TimeML>

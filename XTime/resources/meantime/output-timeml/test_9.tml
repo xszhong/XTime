@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_9.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2005-10-13">2005-10-13</TIMEX3></DCT>
+<TEXT>
+
+Apple introduces new iPod with video playback capabilities
+
+<TIMEX3 tid="t1" type="DATE" value="2005-10-13">October 13, 2005</TIMEX3>
+
+On <TIMEX3 tid="t2" type="DATE" value="2005-10-12">Wednesday</TIMEX3>, Apple introduced an iPod capable of displaying video, as well as a new video section to the iTunes music store.
+
+Apple CEO Steve Jobs believes that this may have a large impact on the film industry, in a similar fashion to that of the impact on the music industry when the iPod first was released.
+
+The new iPod comes in a 30GB edition and a 60GB edition for US$ 299 and US$ 399, respectively.
+
+On the 30GB iPod, <TIMEX3 tid="t3" type="DURATION" value="PT75H">75 hours</TIMEX3> of video at a resolution of 320x240 can be stored, and on the 60GB iPod, <TIMEX3 tid="t4" type="DURATION" value="PT150H">150 hours</TIMEX3> can be stored.
+
+</TEXT>
+</TimeML>

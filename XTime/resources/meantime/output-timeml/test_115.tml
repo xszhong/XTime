@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_115.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2011-05-29">2011-05-29</TIMEX3></DCT>
+<TEXT>
+
+Fiat plans to buy majority stake in Chrysler
+
+<TIMEX3 tid="t1" type="DATE" value="2011-05-29">May 29, 2011</TIMEX3>
+
+Fiat announced on <TIMEX3 tid="t2" type="DATE" value="2011-06-03">Friday</TIMEX3> that it intends to purchase the six percent of automaker Chrysler that the US government <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">currently</TIMEX3> owns, which would give the Italian company a 52 percent majority stake in Chrysler.
+
+According to Fiat's announcement, the company has told the US Treasury that it intends to use its option to buy the share in Chrysler held by the US government, a deal that will be finalized by <TIMEX3 tid="t4" type="DATE" value="2011-06-10">June 10</TIMEX3>.
+
+If a price is not agreed on by that time, Fiat will pay the average of the estimates of two investment banks.
+
+In <TIMEX3 tid="t5" type="DATE" value="2009">2009</TIMEX3>, Fiat bought a twenty percent stake in Chrysler, which had just exited bankruptcy, and has since increased its holding to 46 percent, expected to increase to 57% by <TIMEX3 tid="t6" type="DATE" value="2011">the end of this year</TIMEX3>.
+
+</TEXT>
+</TimeML>

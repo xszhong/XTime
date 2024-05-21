@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>APW19980227.0476</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1998-02-27">1998-02-27</TIMEX3></DCT>
+<TEXT>
+THE HAGUE, Netherlands (AP)_ The World Court <TIMEX3 tid="t1" type="DATE" value="1998-02-27-WXX-5">Friday</TIMEX3> rejected U.S. and British objections to a Libyan World Court case that has blocked the trial of two Libyans suspected of blowing up a Pan <TIMEX3 tid="t2" type="TIME" value="1998-02-27-WXX-5">Am</TIMEX3> jumbo jet over Scotland in <TIMEX3 tid="t3" type="DATE" value="1988">1988</TIMEX3>. Libya, which brought the case to the United Nations' highest judicial body in its dispute with the United States and Britain, hailed the ruling and said it would press anew for a trial in a third neutral country. Both U.S. and British officials filed objections to the court's jurisdiction in <TIMEX3 tid="t4" type="DATE" value="1995">1995</TIMEX3>, claiming Security Council resolutions imposed on Lybia to force the suspects' extradition overruled a <TIMEX3 tid="t5" type="DATE" value="1971">1971</TIMEX3> Convention which gives Libya the right to try the men. The decision, 3rd graf pvs.
+</TEXT>
+</TimeML>

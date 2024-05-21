@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_25.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2011-10-06">2011-10-06</TIMEX3></DCT>
+<TEXT>
+
+Apple Inc. co-founder Steve Jobs dies aged 56
+
+<TIMEX3 tid="t1" type="DATE" value="2011-10-06">October 6, 2011</TIMEX3>
+
+The co-founder and former chief executive officer of Apple Inc. Steve Jobs has died <TIMEX3 tid="t2" type="DATE" value="2011-10-05">yesterday</TIMEX3> at the age of 56, according to the company website.
+
+On <TIMEX3 tid="t3" type="DATE" value="2011-08-24">August 24</TIMEX3>, Jobs resigned from his post as CEO.
+
+He has been fighting pancreatic cancer since <TIMEX3 tid="t4" type="DATE" value="2004">2004</TIMEX3>.
+
+Jobs, born in San Francisco on <TIMEX3 tid="t5" type="DATE" value="1955-02-24">February 24, 1955</TIMEX3>, has built the most valuable technology company in the world, with a market value of $348.8 billion.
+
+</TEXT>
+</TimeML>

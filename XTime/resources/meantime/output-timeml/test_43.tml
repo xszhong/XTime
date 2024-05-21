@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_43.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2010-05-07">2010-05-07</TIMEX3></DCT>
+<TEXT>
+
+US stocks see 9% drop before making recovery
+
+<TIMEX3 tid="t1" type="DATE" value="2010-05-07">May 07, 2010</TIMEX3>
+
+US stock markets saw an unusually turbulent <TIMEX3 tid="t2" type="DATE" value="2010-05-06">day yesterday</TIMEX3>, with the Dow Jones Industrial Average (DJIA )losing almost a thousand points in <TIMEX3 tid="t3" type="DURATION" value="PT30M">thirty minutes</TIMEX3>, although later recovered somewhat to <TIMEX3 tid="t4" type="DATE" value="2010-05-07">end the day</TIMEX3> with a smaller loss.
+
+The DJIA had its worst <TIMEX3 tid="t5" type="DATE" value="2010-FA">fall</TIMEX3> since <TIMEX3 tid="t6" type="DATE" value="1987">1987</TIMEX3>, a drop of 9% or 998.50 points, before going back up a bit to close with a loss of 3.30% or 347.80 points to a level of 10,520.
+
+The Nasdaq fell 82.65 points or 3.44%, and the Standard &amp; Poor's 500 index dropped 3.24% or 37.75 points.
+
+According to some reports, the quick loss happened because a trader mistyped an order to sell a large amount of stock, causing the stock price to go down enough to trigger orders to sell elsewhere in the market.
+
+</TEXT>
+</TimeML>

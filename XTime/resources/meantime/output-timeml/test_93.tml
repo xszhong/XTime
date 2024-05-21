@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>test_93.tml</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2009-05-28">2009-05-28</TIMEX3></DCT>
+<TEXT>
+
+Bankruptcy for U.S. automaker GM becomes almost certain after bondholder offers fail
+
+<TIMEX3 tid="t1" type="DATE" value="2009-05-28">May 28, 2009</TIMEX3>
+
+The United States automobile manufacturing firm General Motors announced on <TIMEX3 tid="t2" type="DATE" value="2009-05-27">Wednesday</TIMEX3> that most of its bondholders did not exchange GM's US$ 27 billion debt for a ten percent share in the company's stock.
+
+The automaker, in financial straits, has <TIMEX3 tid="t3" type="DATE" value="2009-06-01">a June 1</TIMEX3> deadline to finish a government restructuring plan that includes plant closures and other debt reduction measures.
+
+U.S. President Barack Obama's administration said it would not give more financial aid to the firm unless 90% of GM's bondholders would agree on compromises that would significantly reduce the firm's costs.
+
+``The principal amount of notes tendered was substantially less than the amount required by GM to satisfy the debt reduction requirement, '' GM said in a statement.
+
+</TEXT>
+</TimeML>

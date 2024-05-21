@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>CNN19980223.1130.0960</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1998-02-23">1998-02-23</TIMEX3></DCT>
+<TEXT>
+Despite the recent possibility of military conflict with Iraq, oil prices have been falling, that's because of a worldwide glut of oil. <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">Now</TIMEX3> with a diplomatic solution to the crisis seemingly at hand, get set for oil prices from the Brent north sea variety to light swede crude to fall further.
+
+Oil prices have come down from <TIMEX3 tid="t2" type="DATE" value="1998-10">the middle of October</TIMEX3> from a twenty-two dollar barrel level down to the fourteen dollars we're seeing <TIMEX3 tid="t3" type="DATE" value="1998-10-23">today</TIMEX3>. That's built up a heck of a momentum and that momentum will look to increase. Ah next up is that thirteen dollar a barrel level we saw in <TIMEX3 tid="t4" type="DATE" value="1998-WI">the winter</TIMEX3> of nineteen ninety-four.
+
+Weakened oil prices have already made life easier for motorists at the gas pump. Gas prices fell nearly two cents a gallon over <TIMEX3 tid="t5" type="DURATION" value="P2W">the last two weeks</TIMEX3>. That according to the Lundberg survey of ten thousand gas stations nationwide.
+</TEXT>
+</TimeML>
